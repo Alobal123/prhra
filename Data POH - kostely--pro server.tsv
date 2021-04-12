@@ -1,0 +1,517 @@
+Kostel	Cesty do	Doba trvání	úkol (číslo)	cena
+start	Kostel Církve bratrské v Horních Počernicích	0	0	0
+	Kostel sv. Ondřeje	0	0	0
+	Kostel sv. Petra a Pavla v Radotíně	0	0	0
+	Kostel sv. Prokopa v Šeberově	0	0	0
+	Kostel sv. Rodiny	0	0	0
+	Kostel sv. Václava v Bohnicích	0	0	0
+	Husův sbor na Zbraslavi	0	0	0
+	Kostel Povýšení sv. Kříže	0	0	0
+	Kostel sv. Cyrila a Metoděje v Nebušicích	0	0	0
+	Kostel sv. Jana a Pavla	0	0	0
+	Kostel sv. Markéty	0	0	0
+	Kostel sv. Martina v Lipanech	0	0	0
+Kostel sv. Rodiny	Kostel sv. Martina v Řepích	7	1	0
+	Kostel sv. Jakuba Staršího ve Stodůlkách	44	1	0
+Kostel sv. Jana a Pavla	Kostel ve skanzenu Řepora	17	2	0
+	Kostel sv. Petra a Pavla v Řeporyjích	6	2	1
+Kostel sv. Martina v Řepích	Kostel sv. Rodiny	7	3	0
+	Kostel Panny Marie Vítězné	27	3	0
+	Kostel sv. Prokopa ve Stodůlkách	14	3	1
+Kostel ve skanzenu Řepora	Kostel sv. Jana a Pavla	17	4	0
+	Kostel sv. Jakuba Staršího ve Stodůlkách	17	4	0
+	Kostel sv. Petra a Pavla v Řeporyjích	18	4	0
+	Kostel sv. Prokopa ve Stodůlkách	10	4	1
+Kostel sv. Jakuba Staršího ve Stodůlkách	Kostel sv. Rodiny	44	5	0
+	Kostel ve skanzenu Řepora	17	5	0
+	Kostel sv. Prokopa ve Stodůlkách	39	5	0
+Kostel sv. Petra a Pavla v Řeporyjích	Kostel sv. Jana a Pavla	6	3	1
+	Kostel ve skanzenu Řepora	18	3	0
+	Kostel sv. Vavřince v Jinonicích	15	3	1
+	Kostel Všech svatých v Slivenci	56	3	0
+Kostel Panny Marie Vítězné	Kostel sv. Martina v Řepích	27	6	0
+	Kostel sv. Fabiána a Šebestiána	22	6	0
+	Bazilika sv. Markéty	44	6	0
+	Kostel sv. Jana Nepomuckého v Košiřích	11	6	1
+	Kostel sv. Prokopa ve Stodůlkách	12	6	1
+Kostel sv. Cyrila a Metoděje v Nebušicích	Kostel sv. Jana v Trní	35	2	0
+	Bazilika sv. Markéty	13	2	1
+Kostel sv. Fabiána a Šebestiána	Kostel Panny Marie Vítězné	22	5	0
+	Kostel sv. Jana v Trní	48	5	0
+	Bazilika sv. Markéty	33	5	0
+Kostel sv. Prokopa ve Stodůlkách	Kostel sv. Martina v Řepích	14	7	1
+	Kostel ve skanzenu Řepora	10	7	1
+	Kostel sv. Jakuba Staršího ve Stodůlkách	39	7	0
+	Kostel Panny Marie Vítězné	12	7	1
+	Kostel sv. Jana Nepomuckého v Košiřích	44	7	0
+	Kostel Církve adventistů sedmého dne	10	7	1
+	Kostel sv. Vavřince v Jinonicích	26	7	0
+Kostel sv. Jana v Trní	Kostel sv. Cyrila a Metoděje v Nebušicích	35	4	0
+	Kostel sv. Fabiána a Šebestiána	48	4	0
+	Kostel sv. Matěje	29	4	0
+	Kostel sv. Vojtěcha v Dejvicích	8	4	1
+	Kostel sv. Václava v Dejvicích	6	4	1
+Bazilika sv. Markéty	Kostel Panny Marie Vítězné	44	8	0
+	Kostel sv. Cyrila a Metoděje v Nebušicích	13	8	1
+	Kostel sv. Fabiána a Šebestiána	33	8	0
+	Evangelický kostel ve Střešovicích	22	8	0
+	Bazilika Nanebevzetí Panny Marie	8	8	1
+	Kostel sv. Jana Nepomuckého v Košiřích	32	8	0
+Kostel Všech svatých v Slivenci	Kostel sv. Petra a Pavla v Řeporyjích	56	6	0
+	Kostel sv. Vavřince v Jinonicích	11	6	1
+	Kostel sv. Jana Nepomuckého ve Velké Chuchli	39	6	0
+	Evangelický kostel v Radotíně	63	6	0
+Evangelický kostel v Radotíně	Kostel Všech svatých v Slivenci	63	4	0
+	Kostel sv. Jana Nepomuckého ve Velké Chuchli	13	4	1
+	Kostel sv. Petra a Pavla v Radotíně	8	4	0
+Kostel sv. Petra a Pavla v Radotíně	Evangelický kostel v Radotíně	8	1	0
+	Evangelický kostel v Modřanech	13	1	1
+	Kostel sv. Havla	31	1	0
+Kostel sv. Jana Nepomuckého v Košiřích	Kostel Panny Marie Vítězné	11	10	1
+	Kostel sv. Prokopa ve Stodůlkách	44	10	0
+	Bazilika sv. Markéty	32	10	0
+	Kostel sv. Vavřince pod Petřínem	9	10	1
+	Kostel Nejsvětější Trojice	32	10	0
+	Kostel Církve adventistů sedmého dne	24	10	0
+Kostel sv. Vavřince v Jinonicích	Kostel sv. Petra a Pavla v Řeporyjích	15	9	1
+	Kostel Všech svatých v Slivenci	11	9	1
+	Kostel sv. Prokopa ve Stodůlkách	26	9	0
+	Kostel Církve adventistů sedmého dne	33	9	0
+	Kostel sv. Filipa a Jakuba na Smíchově	7	9	1
+	Kostel sv. Filipa a Jakuba ve Zlíchově	49	9	0
+	Kostel Narození Panny Marie v Malé Chuchli	52	9	0
+Evangelický kostel ve Střešovicích	Bazilika sv. Markéty	22	9	0
+	Kostel sv. Václava v Dejvicích	13	9	0
+	Kostel sv. Norberta	5	9	0
+Kostel sv. Václava v Dejvicích	Kostel sv. Jana v Trní	6	7	1
+	Evangelický kostel ve Střešovicích	13	7	0
+	Kostel sv. Norberta	12	7	0
+	Kostel sv. Vojtěcha v Dejvicích	16	7	0
+	Katedrála sv. Víta, Václava a Vojtěcha	7	7	1
+Kostel sv. Matěje	Kostel sv. Jana v Trní	29	6	0
+	Kostel sv. Petra a Pavla v Bohnicích	61	6	0
+	Kostel sv. Vojtěcha v Dejvicích	22	6	0
+Kostel sv. Norberta	Evangelický kostel ve Střešovicích	5	10	0
+	Kostel sv. Václava v Dejvicích	12	10	0
+	Kostel Narození Páně	17	10	0
+Kostel Církve adventistů sedmého dne	Kostel sv. Prokopa ve Stodůlkách	10	12	1
+	Kostel sv. Jana Nepomuckého v Košiřích	24	12	0
+	Kostel sv. Vavřince v Jinonicích	33	12	0
+	Kostel Nejsvětější Trojice	4	12	1
+	Kostel sv. Filipa a Jakuba na Smíchově	4	12	0
+Kostel sv. Vojtěcha v Dejvicích	Kostel sv. Jana v Trní	8	8	1
+	Kostel sv. Václava v Dejvicích	16	8	0
+	Kostel sv. Matěje	22	8	0
+	Kostel sv. Petra a Pavla v Bohnicích	14	8	1
+	Husův sbor v Dejvicích	15	8	0
+Kostel sv. Filipa a Jakuba na Smíchově	Kostel sv. Vavřince v Jinonicích	7	14	1
+	Kostel Církve adventistů sedmého dne	4	14	0
+	Evangelický kostel sborový dům J. A. Komenského	15	14	0
+	Kostel sv. Filipa a Jakuba ve Zlíchově	38	14	0
+Kostel sv. Jana Nepomuckého ve Velké Chuchli	Kostel Všech svatých v Slivenci	39	8	0
+	Evangelický kostel v Radotíně	13	8	1
+	Kostel Narození Panny Marie v Malé Chuchli	14	8	0
+	Kostel Panny Marie Královny míru	12	8	1
+	Evangelický kostel v Modřanech	41	8	0
+Kostel sv. Havla	Kostel sv. Petra a Pavla v Radotíně	31	3	0
+	Kostel sv. Jakuba Staršího na Zbraslavi	9	3	0
+	Husův sbor na Zbraslavi	9	3	0
+Husův sbor na Zbraslavi	Kostel sv. Havla	9	2	0
+Bazilika Nanebevzetí Panny Marie	Bazilika sv. Markéty	8	11	1
+	Kostel Narození Páně	6	11	0
+	Kostel sv. Vavřince pod Petřínem	10	11	0
+Kostel Narození Páně	Kostel sv. Norberta	17	13	0
+	Bazilika Nanebevzetí Panny Marie	6	13	0
+	Katedrála sv. Víta, Václava a Vojtěcha	11	13	0
+Kostel Narození Panny Marie v Malé Chuchli	Kostel sv. Vavřince v Jinonicích	52	10	0
+	Kostel sv. Jana Nepomuckého ve Velké Chuchli	14	10	0
+	Kostel sv. Prokopa v Braníku	36	10	0
+Kostel sv. Jakuba Staršího na Zbraslavi	Kostel sv. Havla	9	4	0
+	Evangelický kostel v Modřanech	47	4	0
+Kostel Nejsvětější Trojice	Kostel sv. Jana Nepomuckého v Košiřích	32	13	0
+	Kostel Církve adventistů sedmého dne	4	13	1
+	Sacré Coeur - kostel Nejsvětějšího Srdce Ježíšova	8	13	0
+	Evangelický kostel sborový dům J. A. Komenského	13	13	0
+Kostel sv. Vavřince pod Petřínem	Kostel sv. Jana Nepomuckého v Košiřích	9	14	1
+	Bazilika Nanebevzetí Panny Marie	10	14	0
+	Kostel Panny Marie Vítězné a sv. Antonína Paduánského	10	14	0
+	Kostel sv. Michala	9	14	0
+Husův sbor v Dejvicích	Kostel sv. Vojtěcha v Dejvicích	15	12	0
+	Evangelický kostel v Bubenči	9	12	0
+	Sbor Církve bratrské	8	12	1
+	Katedrála sv. Víta, Václava a Vojtěcha	13	12	0
+Kostel sv. Michala	Kostel sv. Vavřince pod Petřínem	9	15	0
+	Sacré Coeur - kostel Nejsvětějšího Srdce Ježíšova	5	15	0
+	Kostel sv. Jana Křtitele Na Prádle	11	15	0
+Sacré Coeur - kostel Nejsvětějšího Srdce Ježíšova	Kostel Nejsvětější Trojice	8	16	0
+	Kostel sv. Michala	5	16	0
+	Bazilika sv. Václava	8	16	0
+	Evangelický kostel sborový dům J. A. Komenského	13	16	0
+Evangelický kostel sborový dům J. A. Komenského	Kostel sv. Filipa a Jakuba na Smíchově	15	15	0
+	Kostel Nejsvětější Trojice	13	15	0
+	Sacré Coeur - kostel Nejsvětějšího Srdce Ježíšova	4	15	1
+	Bazilika sv. Václava	15	15	0
+	Kostel sv. Petra a Pavla na Vyšehradě	22	15	0
+	Kostel sv. Filipa a Jakuba ve Zlíchově	7	15	1
+	Kostel sv. Michaela Archanděla	28	15	0
+Katedrála sv. Víta, Václava a Vojtěcha	Kostel sv. Václava v Dejvicích	7	14	1
+	Kostel Narození Páně	11	14	0
+	Husův sbor v Dejvicích	13	14	0
+	Kostel Matky Boží před Týnem	5	14	1
+	Kostel Panny Marie Vítězné a sv. Antonína Paduánského	10	14	0
+Evangelický kostel v Bubenči	Husův sbor v Dejvicích	9	9	0
+	Kostel sv. Gotharda	8	9	0
+Kostel Panny Marie Vítězné a sv. Antonína Paduánského	Kostel sv. Vavřince pod Petřínem	10	16	0
+	Katedrála sv. Víta, Václava a Vojtěcha	10	16	0
+	Kostel Nejsvětějšího Salvátora	14	16	0
+	Kostel sv. Jana Křtitele Na Prádle	7	16	0
+Bazilika sv. Václava	Sacré Coeur - kostel Nejsvětějšího Srdce Ježíšova	8	17	0
+	Evangelický kostel sborový dům J. A. Komenského	15	17	0
+	Kostel sv. Jana Křtitele Na Prádle	3	17	1
+	Pravoslavný chrám sv. Cyrila a Metoděje	15	17	0
+	Kostel sv. Jana Nepomuckého Na Skalce	17	17	0
+Kostel sv. Jana Křtitele Na Prádle	Kostel sv. Michala	11	20	0
+	Kostel Panny Marie Vítězné a sv. Antonína Paduánského	7	20	0
+	Bazilika sv. Václava	3	20	1
+	Kostel sv. Voršily	11	20	0
+Kostel sv. Gotharda	Evangelický kostel v Bubenči	8	10	0
+	Kostel sv. Václava v Bohnicích	12	10	1
+	Kostel sv. Terezie od Dítěte Ježíše	63	10	0
+	Kostel sv. Klimenta	31	10	0
+Kostel sv. Filipa a Jakuba ve Zlíchově	Kostel sv. Vavřince v Jinonicích	49	13	0
+	Kostel sv. Filipa a Jakuba na Smíchově	38	13	0
+	Evangelický kostel sborový dům J. A. Komenského	7	13	1
+	Kostel sv. Michaela Archanděla	28	13	0
+	Kostel sv. Pankráce	33	13	0
+	Kostel sv. Prokopa v Braníku	18	13	0
+Evangelický kostel v Modřanech	Kostel sv. Petra a Pavla v Radotíně	13	5	1
+	Kostel sv. Jana Nepomuckého ve Velké Chuchli	41	5	0
+	Kostel sv. Jakuba Staršího na Zbraslavi	47	5	0
+	Kostel Panny Marie Královny míru	49	5	0
+	Kostel sv. Jakuba Staršího v Kunraticích	18	5	1
+	Kostel sv. Prokopa v Šeberově	26	5	1
+Kostel sv. Prokopa v Braníku	Kostel Narození Panny Marie v Malé Chuchli	36	11	0
+	Kostel sv. Filipa a Jakuba ve Zlíchově	18	11	0
+	Kostel sv. Františka z Assisi v Krči	41	11	0
+	Kostel Panny Marie Královny míru	43	11	0
+Kostel Nejsvětějšího Salvátora	Kostel Panny Marie Vítězné a sv. Antonína Paduánského	14	18	0
+	Kostel Matky Boží před Týnem	9	18	0
+	Kostel sv. Martina ve zdi	8	18	0
+Kostel sv. Petra a Pavla v Bohnicích	Kostel sv. Matěje	61	3	0
+	Kostel sv. Vojtěcha v Dejvicích	14	3	1
+	Kostel sv. Václava v Bohnicích	10	3	0
+Kostel sv. Voršily	Kostel sv. Jana Křtitele Na Prádle	11	17	0
+	Kostel sv. Martina ve zdi	5	17	0
+	Kostel sv. Štěpána	3	17	1
+	Pravoslavný chrám sv. Cyrila a Metoděje	10	17	0
+Pravoslavný chrám sv. Cyrila a Metoděje	Bazilika sv. Václava	15	19	0
+	Kostel sv. Voršily	10	19	0
+	Kostel sv. Ignáce z Loyoly	5	19	0
+	Kostel sv. Jana Nepomuckého Na Skalce	6	19	0
+	Kostel sv. Štěpána	9	19	0
+Kostel sv. Petra a Pavla na Vyšehradě	Evangelický kostel sborový dům J. A. Komenského	22	19	0
+	Kostel sv. Jana Nepomuckého Na Skalce	14	19	0
+	Kostel sv. Apolináře	3	19	1
+	Kostel sv. Michaela Archanděla	9	19	0
+	Kostel Panny Marie a sv. Karla Velikého	15	19	0
+Kostel sv. Jana Nepomuckého Na Skalce	Bazilika sv. Václava	17	20	0
+	Pravoslavný chrám sv. Cyrila a Metoděje	6	20	0
+	Kostel sv. Petra a Pavla na Vyšehradě	14	20	0
+	Kostel sv. Ignáce z Loyoly	5	20	0
+	Kostel sv. Apolináře	7	20	0
+Kostel sv. Martina ve zdi	Kostel Nejsvětějšího Salvátora	8	19	0
+	Kostel sv. Voršily	5	19	0
+	Kostel Matky Boží před Týnem	9	19	0
+	Kostel Panny Marie Sněžné	4	19	0
+Kostel sv. Ignáce z Loyoly	Pravoslavný chrám sv. Cyrila a Metoděje	5	17	0
+	Kostel sv. Jana Nepomuckého Na Skalce	5	17	0
+	Kostel sv. Štěpána	5	17	0
+	Kostel sv. Apolináře	8	17	0
+Kostel sv. Michaela Archanděla	Evangelický kostel sborový dům J. A. Komenského	28	16	0
+	Kostel sv. Filipa a Jakuba ve Zlíchově	28	16	0
+	Kostel sv. Petra a Pavla na Vyšehradě	9	16	0
+	Kostel sv. Pankráce	12	16	0
+Kostel Matky Boží před Týnem	Katedrála sv. Víta, Václava a Vojtěcha	5	17	1
+	Kostel Nejsvětějšího Salvátora	9	17	0
+	Kostel sv. Martina ve zdi	9	17	0
+	Kostel sv. Josefa	8	17	0
+	Kostel Panny Marie Sněžné	9	17	0
+Kostel sv. Václava v Bohnicích	Kostel sv. Gotharda	12	1	1
+	Kostel sv. Petra a Pavla v Bohnicích	10	1	0
+	Kostel sv. Alžběty	30	1	1
+	Kostel sv. Terezie od Dítěte Ježíše	39	1	0
+Kostel Panny Marie Sněžné	Kostel sv. Martina ve zdi	4	20	0
+	Kostel Matky Boží před Týnem	9	20	0
+	Kostel sv. Jindřicha a Kunhuty	9	20	0
+	Kostel sv. Štěpána	12	20	0
+Kostel sv. Apolináře	Kostel sv. Petra a Pavla na Vyšehradě	3	18	1
+	Kostel sv. Jana Nepomuckého Na Skalce	7	18	0
+	Kostel sv. Ignáce z Loyoly	8	18	0
+	Kostel sv. Ludmily ve Vinohradech	4	18	1
+	Kostel Panny Marie a sv. Karla Velikého	6	18	0
+Kostel sv. Štěpána	Kostel sv. Voršily	3	18	1
+	Pravoslavný chrám sv. Cyrila a Metoděje	9	18	0
+	Kostel sv. Ignáce z Loyoly	5	18	0
+	Kostel Panny Marie Sněžné	12	18	0
+	Kostel sv. Ludmily ve Vinohradech	14	18	0
+Kostel Panny Marie a sv. Karla Velikého	Kostel sv. Apolináře	6	20	0
+	Kostel sv. Petra a Pavla na Vyšehradě	15	20	0
+	Kostel sv. Ludmily ve Vinohradech	16	20	0
+	Kostel sv. Václava v Nuslích	4	20	1
+	Evangelický kostel v Nuslích	15	20	0
+Kostel sv. Josefa	Kostel Matky Boží před Týnem	8	19	0
+	Sbor Církve bratrské	5	19	0
+	Kostel sv. Petra na Novém Městě	7	19	0
+	Kostel sv. Jindřicha a Kunhuty	7	19	0
+Sbor Církve bratrské	Husův sbor v Dejvicích	8	15	1
+	Kostel sv. Josefa	5	15	0
+	Kostel sv. Klimenta	11	15	0
+	Kostel sv. Petra na Novém Městě	5	15	0
+Kostel sv. Jindřicha a Kunhuty	Kostel Panny Marie Sněžné	9	18	0
+	Kostel sv. Josefa	7	18	0
+	Kostel sv. Cyrila a Metoděje na Karlíně	5	18	1
+	Kostel sv. Prokopa na Žižkově	24	18	0
+	Kostel sv. Ludmily ve Vinohradech	19	18	0
+Kostel sv. Pankráce	Kostel sv. Filipa a Jakuba ve Zlíchově	33	15	0
+	Kostel sv. Michaela Archanděla	12	15	0
+	Evangelický kostel v Nuslích	7	15	0
+	Kostel Narození Panny Marie v Michli	30	15	0
+	Kostel sv. Františka z Assisi v Krči	8	15	1
+Kostel sv. Klimenta	Kostel sv. Gotharda	31	13	0
+	Sbor Církve bratrské	11	13	0
+	Kostel sv. Antonína Paduánského	6	13	0
+	Kostel sv. Petra na Novém Městě	11	13	0
+Kostel sv. Petra na Novém Městě	Kostel sv. Josefa	7	16	0
+	Sbor Církve bratrské	5	16	0
+	Kostel sv. Klimenta	11	16	0
+	Kostel sv. Cyrila a Metoděje na Karlíně	17	16	0
+Evangelický kostel v Nuslích	Kostel Panny Marie a sv. Karla Velikého	15	17	0
+	Kostel sv. Pankráce	7	17	0
+	Kostel sv. Václava v Nuslích	9	17	0
+Kostel sv. Antonína Paduánského	Kostel sv. Klimenta	6	11	0
+	Kostel sv. Terezie od Dítěte Ježíše	48	11	0
+	Kostel u Jákobova žebříku	11	11	1
+	Kostel sv. Vojtěcha v Libni	46	11	0
+Kostel sv. Ludmily ve Vinohradech	Kostel sv. Apolináře	4	17	1
+	Kostel sv. Štěpána	14	17	0
+	Kostel Panny Marie a sv. Karla Velikého	16	17	0
+	Kostel sv. Jindřicha a Kunhuty	19	17	0
+	Kostel sv. Prokopa na Žižkově	5	17	1
+	Husův sbor ve Vinohradech	14	17	0
+	Kostel sv. Mikuláše	4	17	1
+Kostel Panny Marie Královny míru	Kostel sv. Jana Nepomuckého ve Velké Chuchli	12	10	1
+	Evangelický kostel v Modřanech	49	10	0
+	Kostel sv. Prokopa v Braníku	43	10	0
+	Kostel sv. Františka z Assisi v Krči	40	10	0
+	Kostel sv. Jakuba Staršího v Kunraticích	57	10	0
+Kostel sv. Václava v Nuslích	Kostel Panny Marie a sv. Karla Velikého	4	16	1
+	Evangelický kostel v Nuslích	9	16	0
+	Kostel sv. Mikuláše	18	16	0
+	Kostel Narození Panny Marie v Michli	25	16	0
+Kostel sv. Cyrila a Metoděje na Karlíně	Kostel sv. Jindřicha a Kunhuty	5	14	1
+	Kostel sv. Petra na Novém Městě	17	14	0
+	Kostel sv. Vojtěcha v Libni	9	14	1
+	Kostel sv. Anny	17	14	0
+	Kostel sv. Prokopa na Žižkově	13	14	0
+Kostel sv. Prokopa na Žižkově	Kostel sv. Jindřicha a Kunhuty	24	15	0
+	Kostel sv. Ludmily ve Vinohradech	5	15	1
+	Kostel sv. Cyrila a Metoděje na Karlíně	13	15	0
+	Kostel sv. Rocha	11	15	0
+	Kostel Nejsvětějšího Srdce Páně	11	15	0
+Kostel Nejsvětějšího Srdce Páně	Kostel sv. Prokopa na Žižkově	11	19	0
+	Kostel sv. Rocha	14	19	0
+	Husův sbor ve Vinohradech	6	19	0
+Husův sbor ve Vinohradech	Kostel sv. Ludmily ve Vinohradech	14	20	0
+	Kostel Nejsvětějšího Srdce Páně	6	20	0
+	Pravoslavný chrám Zesnutí sv. Bohorodice	7	20	1
+	Kostel sv. Václava ve Vršovicích	3	20	1
+	Kostel sv. Mikuláše	10	20	0
+Kostel sv. Mikuláše	Kostel sv. Ludmily ve Vinohradech	4	18	1
+	Kostel sv. Václava v Nuslích	18	18	0
+	Husův sbor ve Vinohradech	10	18	0
+	Kostel sv. Václava ve Vršovicích	9	18	0
+Kostel Narození Panny Marie v Michli	Kostel sv. Pankráce	30	14	0
+	Kostel sv. Václava v Nuslích	25	14	0
+	Kostel sv. Františka z Assisi v Krči	18	14	0
+	Kostel Narození Panny Marie v Záběhlicích	42	14	0
+	Kostel sv. Anežky České	7	14	1
+	Kostel sv. Václava ve Vršovicích	7	14	1
+Kostel sv. Františka z Assisi v Krči	Kostel sv. Prokopa v Braníku	41	12	0
+	Kostel sv. Pankráce	8	12	1
+	Kostel Panny Marie Královny míru	40	12	0
+	Kostel Narození Panny Marie v Michli	18	12	0
+	Kostel sv. Anežky České	38	12	0
+	Kostel sv. Jakuba Staršího v Kunraticích	14	12	1
+Kostel sv. Terezie od Dítěte Ježíše	Kostel sv. Gotharda	63	5	0
+	Kostel sv. Václava v Bohnicích	39	5	0
+	Kostel sv. Antonína Paduánského	48	5	0
+	Kostel u Jákobova žebříku	12	5	0
+Kostel sv. Václava ve Vršovicích	Husův sbor ve Vinohradech	3	15	1
+	Kostel sv. Mikuláše	9	15	0
+	Kostel Narození Panny Marie v Michli	7	15	1
+	Evangelický kostel ve Vršovicích	19	15	0
+	Kostel Narození Panny Marie v Záběhlicích	45	15	0
+Kostel sv. Rocha	Kostel sv. Prokopa na Žižkově	11	16	0
+	Kostel Nejsvětějšího Srdce Páně	14	16	0
+	Kostel sv. Anny	8	16	0
+	Pravoslavný chrám Zesnutí sv. Bohorodice	18	16	0
+	Evangelický kostel ve Vršovicích	24	16	0
+Kostel sv. Anny	Kostel sv. Cyrila a Metoděje na Karlíně	17	13	0
+	Kostel sv. Rocha	8	13	0
+	Kostel sv. Vojtěcha v Libni	8	13	1
+	Kostel sv. Vojtěcha na Žižkově	32	13	0
+Kostel u Jákobova žebříku	Kostel sv. Antonína Paduánského	11	6	1
+	Kostel sv. Terezie od Dítěte Ježíše	12	6	0
+	Kostel sv. Václava na Proseku	41	6	0
+	Kostel sv. Vojtěcha v Libni	30	6	0
+	Kostel sv. Alžběty	21	6	1
+Kostel sv. Vojtěcha v Libni	Kostel sv. Antonína Paduánského	46	9	0
+	Kostel sv. Cyrila a Metoděje na Karlíně	9	9	1
+	Kostel sv. Anny	8	9	1
+	Kostel u Jákobova žebříku	30	9	0
+	Kostel sv. Václava na Proseku	33	9	0
+	Kostel sv. Vojtěcha na Žižkově	30	9	0
+Evangelický kostel ve Vršovicích	Kostel sv. Václava ve Vršovicích	19	13	0
+	Kostel sv. Rocha	24	13	0
+	Pravoslavný chrám Zesnutí sv. Bohorodice	16	13	0
+	Betlémská kaple	19	13	0
+	Kostel Narození Panny Marie v Záběhlicích	8	13	1
+Pravoslavný chrám Zesnutí sv. Bohorodice	Husův sbor ve Vinohradech	7	14	1
+	Kostel sv. Rocha	18	14	0
+	Evangelický kostel ve Vršovicích	16	14	0
+	Kostel sv. Vojtěcha na Žižkově	27	14	0
+	Betlémská kaple	5	14	1
+Kostel sv. Anežky České	Kostel Narození Panny Marie v Michli	7	11	1
+	Kostel sv. Františka z Assisi v Krči	38	11	0
+	Kostel Narození Panny Marie v Záběhlicích	19	11	0
+	Sborový dům Jana Milíče z Kroměříže	28	11	0
+Kostel sv. Jakuba Staršího v Kunraticích	Evangelický kostel v Modřanech	18	6	1
+	Kostel Panny Marie Královny míru	57	6	0
+	Kostel sv. Františka z Assisi v Krči	14	6	1
+	Kostel sv. Františka z Assisi na Chodově	42	6	0
+	Kostel Církve bratrské v Šeberově	34	6	0
+	Kostel sv. Prokopa v Šeberově	9	6	1
+Kostel sv. Vojtěcha na Žižkově	Kostel sv. Anny	32	12	0
+	Kostel sv. Vojtěcha v Libni	30	12	0
+	Pravoslavný chrám Zesnutí sv. Bohorodice	27	12	0
+	Kostel sv. Václava na Proseku	9	12	1
+	Svatyně Krista Krále	8	12	1
+	Evangelický kostel na Žižkově	9	12	0
+Kostel Narození Panny Marie v Záběhlicích	Kostel Narození Panny Marie v Michli	42	12	0
+	Kostel sv. Václava ve Vršovicích	45	12	0
+	Evangelický kostel ve Vršovicích	8	12	1
+	Kostel sv. Anežky České	19	12	0
+	Kostel Neposkvrněného početí Panny Marie	31	12	0
+	Kostel Stětí sv. Jana Křtitele v Hostivaři	45	12	0
+Betlémská kaple	Evangelický kostel ve Vršovicích	19	12	0
+	Pravoslavný chrám Zesnutí sv. Bohorodice	5	12	1
+	Evangelický kostel na Žižkově	37	12	0
+	Kostel sv. Bartoloměje	17	12	1
+	Kostel Neposkvrněného početí Panny Marie	10	12	0
+Evangelický kostel na Žižkově	Kostel sv. Vojtěcha na Žižkově	9	11	0
+	Betlémská kaple	37	11	0
+	Kostel sv. Jiří	53	11	0
+	Kostel sv. Bartoloměje	13	11	1
+	Svatyně Krista Krále	35	11	0
+Kostel sv. Václava na Proseku	Kostel u Jákobova žebříku	41	7	0
+	Kostel sv. Vojtěcha v Libni	33	7	0
+	Kostel sv. Vojtěcha na Žižkově	9	7	1
+	Kostel sv. Alžběty	14	7	1
+	Svatyně Krista Krále	20	7	0
+Kostel Neposkvrněného početí Panny Marie	Kostel Narození Panny Marie v Záběhlicích	31	11	0
+	Betlémská kaple	10	11	0
+	Kostel Nanebevzetí Panny Marie	22	11	1
+	Kostel sv. Petra v Dubečku	21	11	1
+	Kostel Stětí sv. Jana Křtitele v Hostivaři	52	11	0
+Sborový dům Jana Milíče z Kroměříže	Kostel sv. Anežky České	28	10	0
+	Kostel Stětí sv. Jana Křtitele v Hostivaři	40	10	0
+	Kostel sv. Jakuba Staršího v Petrovicích	14	10	1
+	Kostel sv. Františka z Assisi na Chodově	9	10	0
+Kostel sv. Františka z Assisi na Chodově	Kostel sv. Jakuba Staršího v Kunraticích	42	9	0
+	Sborový dům Jana Milíče z Kroměříže	9	9	0
+	Komunitní centrum Matky Terezy	24	9	0
+	Kostel Církve bratrské na Chodově	20	9	0
+Svatyně Krista Krále	Kostel sv. Vojtěcha na Žižkově	8	10	1
+	Kostel sv. Václava na Proseku	20	10	0
+	Evangelický kostel na Žižkově	35	10	0
+	Kostel sv. Alžběty	66	10	0
+	Kostel sv. Jiří	36	10	0
+Kostel Církve bratrské v Šeberově	Kostel sv. Jakuba Staršího v Kunraticích	34	3	0
+	Kostel Církve bratrské na Chodově	21	3	0
+	Kostel sv. Prokopa v Šeberově	25	3	0
+Kostel Církve bratrské na Chodově	Kostel sv. Františka z Assisi na Chodově	20	7	0
+	Kostel Církve bratrské v Šeberově	21	7	0
+	Komunitní centrum Matky Terezy	14	7	0
+Kostel sv. Prokopa v Šeberově	Evangelický kostel v Modřanech	26	1	1
+	Kostel sv. Jakuba Staršího v Kunraticích	9	1	1
+	Kostel Církve bratrské v Šeberově	25	1	0
+	Kostel sv. Jakuba Staršího v Petrovicích	16	1	1
+Komunitní centrum Matky Terezy	Kostel sv. Františka z Assisi na Chodově	24	8	0
+	Kostel Církve bratrské na Chodově	14	8	0
+	Kostel sv. Jakuba Staršího v Petrovicích	38	8	0
+Kostel Stětí sv. Jana Křtitele v Hostivaři	Kostel Narození Panny Marie v Záběhlicích	45	9	0
+	Kostel Neposkvrněného početí Panny Marie	52	9	0
+	Sborový dům Jana Milíče z Kroměříže	40	9	0
+	Kostel sv. Petra v Dubečku	51	9	0
+	Evangelický kostel v Uhříněvsi	17	9	1
+	Kostel sv. Jakuba Staršího v Petrovicích	46	9	0
+Kostel sv. Jiří	Evangelický kostel na Žižkově	53	8	0
+	Svatyně Krista Krále	36	8	0
+	Kostel Povýšení sv. Kříže	19	8	1
+	Kostel sv. Ludmily v Horních Počernicích	15	8	1
+	Kostel sv. Bartoloměje	19	8	0
+Kostel sv. Bartoloměje	Betlémská kaple	17	7	1
+	Evangelický kostel na Žižkově	13	7	1
+	Kostel sv. Jiří	19	7	0
+	Kostel sv. Ludmily v Horních Počernicích	62	7	0
+	Kostel Nanebevzetí Panny Marie	42	7	0
+Kostel sv. Alžběty	Kostel sv. Václava v Bohnicích	30	4	1
+	Kostel u Jákobova žebříku	21	4	1
+	Kostel sv. Václava na Proseku	14	4	1
+	Svatyně Krista Krále	66	4	0
+	Kostel Povýšení sv. Kříže	44	4	0
+Kostel sv. Jakuba Staršího v Petrovicích	Sborový dům Jana Milíče z Kroměříže	14	7	1
+	Kostel sv. Prokopa v Šeberově	16	7	1
+	Komunitní centrum Matky Terezy	38	7	0
+	Kostel Stětí sv. Jana Křtitele v Hostivaři	46	7	0
+	Kostel sv. Petra v Dubečku	51	7	0
+	Evangelický kostel v Uhříněvsi	44	7	0
+	Kostel sv. Martina v Lipanech	20	7	1
+Kostel Nanebevzetí Panny Marie	Kostel Neposkvrněného početí Panny Marie	22	8	1
+	Kostel sv. Bartoloměje	42	8	0
+	Kostel sv. Ludmily v Horních Počernicích	46	8	0
+	Kostel sv. Petra v Dubečku	61	8	0
+Kostel sv. Petra v Dubečku	Kostel Neposkvrněného početí Panny Marie	21	6	1
+	Kostel Stětí sv. Jana Křtitele v Hostivaři	51	6	0
+	Kostel sv. Jakuba Staršího v Petrovicích	51	6	0
+	Kostel Nanebevzetí Panny Marie	61	6	0
+	Evangelický kostel v Uhříněvsi	40	6	0
+	Kostel sv. Markéty	65	6	0
+Kostel Povýšení sv. Kříže	Kostel sv. Jiří	19	2	1
+	Kostel sv. Alžběty	44	2	0
+	Kostel sv. Ludmily v Horních Počernicích	62	2	0
+	Kostel Církve bratrské v Horních Počernicích	14	2	1
+Evangelický kostel v Uhříněvsi	Kostel Stětí sv. Jana Křtitele v Hostivaři	17	5	1
+	Kostel sv. Jakuba Staršího v Petrovicích	44	5	0
+	Kostel sv. Petra v Dubečku	40	5	0
+	Kostel Všech svatých v Uhříněvsi	18	5	0
+Kostel sv. Ludmily v Horních Počernicích	Kostel sv. Jiří	15	5	1
+	Kostel sv. Bartoloměje	62	5	0
+	Kostel Nanebevzetí Panny Marie	46	5	0
+	Kostel Povýšení sv. Kříže	62	5	0
+	Evangelický kostel v Horních Počernicích	24	5	0
+Kostel Všech svatých v Uhříněvsi	Evangelický kostel v Uhříněvsi	18	4	0
+	Kostel sv. Markéty	41	4	0
+	Kostel sv. Ondřeje	48	4	0
+	Kostel sv. Martina v Lipanech	58	4	0
+Evangelický kostel v Horních Počernicích	Kostel sv. Ludmily v Horních Počernicích	24	3	0
+	Kostel Církve bratrské v Horních Počernicích	14	3	0
+Kostel sv. Martina v Lipanech	Kostel sv. Jakuba Staršího v Petrovicích	20	2	1
+	Kostel Všech svatých v Uhříněvsi	58	2	0
+	Kostel sv. Ondřeje	22	2	0
+Kostel Církve bratrské v Horních Počernicích	Kostel Povýšení sv. Kříže	14	1	1
+	Evangelický kostel v Horních Počernicích	14	1	0
+Kostel sv. Markéty	Kostel sv. Petra v Dubečku	65	2	0
+	Kostel Všech svatých v Uhříněvsi	41	2	0
+Kostel sv. Ondřeje	Kostel Všech svatých v Uhříněvsi	48	1	0
+	Kostel sv. Martina v Lipanech	22	1	0
