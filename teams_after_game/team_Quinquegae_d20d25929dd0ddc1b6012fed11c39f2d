@@ -1,0 +1,144 @@
+@ 2020-05-14 19:33:00
+place Kostel Církve bratrské v Horních Počernicích
+@ 2020-05-14 19:33:00
+state ANSWER
+@ 2020-05-14 19:33:00
+time 360
+@ 2020-05-14 19:33:00
+money 5
+@ 2020-05-14 19:48:41
+# wrong_answer 1 kostel svatého antonína paduánského
+@ 2020-05-14 19:48:56
+# wrong_answer 1 Kostel sv. Antonína z Padovy
+@ 2020-05-14 19:49:08
+state MOVE
+@ 2020-05-14 19:49:08
+# correct_answer 1 Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:50:37
+place Evangelický kostel v Horních Počernicích
+@ 2020-05-14 19:50:37
+state ANSWER
+@ 2020-05-14 19:50:37
+time 346
+@ 2020-05-14 19:50:37
+money 5
+@ 2020-05-14 20:04:22
+# wrong_answer 3 6bf6
+@ 2020-05-14 20:05:06
+state MOVE
+@ 2020-05-14 20:05:06
+# correct_answer 3 8859
+@ 2020-05-14 20:05:36
+place Kostel sv. Ludmily v Horních Počernicích
+@ 2020-05-14 20:05:36
+state ANSWER
+@ 2020-05-14 20:05:36
+time 322
+@ 2020-05-14 20:05:36
+money 5
+@ 2020-05-14 20:14:03
+# wrong_answer 5 Píseň písní, meč, Pavel
+@ 2020-05-14 20:16:27
+state MOVE
+@ 2020-05-14 20:16:27
+# correct_answer 5 Píseň písní, meč, Jakub
+@ 2020-05-14 20:17:41
+place Kostel sv. Jiří
+@ 2020-05-14 20:17:41
+state ANSWER
+@ 2020-05-14 20:17:41
+time 307
+@ 2020-05-14 20:17:41
+money 4
+@ 2020-05-14 20:21:45
+# wrong_answer 8 20
+@ 2020-05-14 20:22:35
+# wrong_answer 8 21
+@ 2020-05-14 20:22:39
+state MOVE
+@ 2020-05-14 20:22:39
+# correct_answer 8 19
+@ 2020-05-14 20:23:52
+place Kostel sv. Bartoloměje
+@ 2020-05-14 20:23:52
+state ANSWER
+@ 2020-05-14 20:23:52
+time 288
+@ 2020-05-14 20:23:52
+money 4
+@ 2020-05-14 20:34:08
+# wrong_answer 7 21.01.2021, 29.08.2039
+@ 2020-05-14 20:34:49
+state MOVE
+@ 2020-05-14 20:34:49
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 20:35:16
+place Betlémská kaple
+@ 2020-05-14 20:35:16
+state ANSWER
+@ 2020-05-14 20:35:16
+time 271
+@ 2020-05-14 20:35:16
+money 3
+@ 2020-05-14 20:38:08
+# wrong_answer 12 Československo, Rusko, Velká Británie
+@ 2020-05-14 20:38:51
+# wrong_answer 12 Rusko, Velká Británie
+@ 2020-05-14 20:39:30
+# wrong_answer 12 Rumunsko, Rusko, Velká Británie
+@ 2020-05-14 20:42:39
+# wrong_answer 12 Sovětský svaz
+@ 2020-05-14 20:44:11
+# wrong_answer 12 Bulharsko, Rumunsko, SSSR, USA, Velká Británie
+@ 2020-05-14 20:45:34
+# wrong_answer 12 Commonwealth, SSSR
+@ 2020-05-14 20:46:11
+# wrong_answer 12 Bulharsko, Commonwealth, SSSR
+@ 2020-05-14 20:46:46
+# wrong_answer 12 Bulharsko, Commonwealth, Sovětský svaz
+@ 2020-05-14 20:48:50
+# hint 12 0
+@ 2020-05-14 20:48:50
+money 2
+@ 2020-05-14 20:50:05
+state MOVE
+@ 2020-05-14 20:50:05
+# correct_answer 12 Itálie, Jugoslávie
+@ 2020-05-14 20:50:56
+place Evangelický kostel ve Vršovicích
+@ 2020-05-14 20:50:56
+state ANSWER
+@ 2020-05-14 20:50:56
+time 252
+@ 2020-05-14 20:50:56
+money 2
+@ 2020-05-14 20:58:38
+state MOVE
+@ 2020-05-14 20:58:38
+# correct_answer 13 Litoradlice
+@ 2020-05-14 20:58:57
+place Kostel sv. Václava ve Vršovicích
+@ 2020-05-14 20:58:57
+state ANSWER
+@ 2020-05-14 20:58:57
+time 233
+@ 2020-05-14 20:58:57
+money 2
+@ 2020-05-14 21:12:36
+# hint 15 0
+@ 2020-05-14 21:12:36
+money 1
+@ 2020-05-14 21:20:17
+# wrong_answer 15 Karel Skalický
+@ 2020-05-14 21:20:25
+state MOVE
+@ 2020-05-14 21:20:25
+# correct_answer 15 Skalický
+@ 2020-05-14 21:20:42
+place Kostel sv. Mikuláše
+@ 2020-05-14 21:20:42
+state ANSWER
+@ 2020-05-14 21:20:42
+time 224
+@ 2020-05-14 21:20:42
+money 1

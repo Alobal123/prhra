@@ -1,0 +1,248 @@
+@ 2020-05-14 19:30:15
+place Husův sbor na Zbraslavi
+@ 2020-05-14 19:30:15
+state ANSWER
+@ 2020-05-14 19:30:15
+time 360
+@ 2020-05-14 19:30:15
+money 5
+@ 2020-05-14 19:33:16
+state MOVE
+@ 2020-05-14 19:33:16
+# correct_answer 2 každý by chtěl ecoin
+@ 2020-05-14 19:33:27
+place Kostel sv. Havla
+@ 2020-05-14 19:33:27
+state ANSWER
+@ 2020-05-14 19:33:27
+time 351
+@ 2020-05-14 19:33:27
+money 5
+@ 2020-05-14 19:45:27
+# wrong_answer 3 9c29
+@ 2020-05-14 19:45:58
+# wrong_answer 3 a983
+@ 2020-05-14 19:46:35
+# wrong_answer 3 7255
+@ 2020-05-14 19:47:03
+# wrong_answer 3 f4ea
+@ 2020-05-14 19:47:19
+state MOVE
+@ 2020-05-14 19:47:19
+# correct_answer 3 8859
+@ 2020-05-14 19:47:49
+place Kostel sv. Petra a Pavla v Radotíně
+@ 2020-05-14 19:47:49
+state ANSWER
+@ 2020-05-14 19:47:49
+time 320
+@ 2020-05-14 19:47:49
+money 5
+@ 2020-05-14 19:51:23
+state MOVE
+@ 2020-05-14 19:51:23
+# correct_answer 1 Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:52:05
+place Evangelický kostel v Radotíně
+@ 2020-05-14 19:52:05
+state ANSWER
+@ 2020-05-14 19:52:05
+time 312
+@ 2020-05-14 19:52:05
+money 5
+@ 2020-05-14 20:00:27
+state MOVE
+@ 2020-05-14 20:00:27
+# correct_answer 4 Svatá Terezie z Lisieux
+@ 2020-05-14 20:00:44
+place Kostel sv. Jana Nepomuckého ve Velké Chuchli
+@ 2020-05-14 20:00:44
+state ANSWER
+@ 2020-05-14 20:00:44
+time 299
+@ 2020-05-14 20:00:44
+money 4
+@ 2020-05-14 20:09:44
+# wrong_answer 8 21
+@ 2020-05-14 20:09:48
+# wrong_answer 8 20
+@ 2020-05-14 20:10:16
+# wrong_answer 8 25
+@ 2020-05-14 20:10:22
+# wrong_answer 8 34¨
+@ 2020-05-14 20:10:25
+# wrong_answer 8 34
+@ 2020-05-14 20:10:29
+state MOVE
+@ 2020-05-14 20:10:29
+# correct_answer 8 19
+@ 2020-05-14 20:11:03
+place Kostel Narození Panny Marie v Malé Chuchli
+@ 2020-05-14 20:11:03
+state ANSWER
+@ 2020-05-14 20:11:03
+time 285
+@ 2020-05-14 20:11:03
+money 4
+@ 2020-05-14 20:17:13
+state MOVE
+@ 2020-05-14 20:17:13
+# correct_answer 10 7
+@ 2020-05-14 20:17:33
+place Kostel sv. Prokopa v Braníku
+@ 2020-05-14 20:17:33
+state ANSWER
+@ 2020-05-14 20:17:33
+time 249
+@ 2020-05-14 20:17:33
+money 4
+@ 2020-05-14 20:18:24
+state MOVE
+@ 2020-05-14 20:18:24
+# correct_answer 11 Gabriel
+@ 2020-05-14 20:18:41
+place Kostel sv. Filipa a Jakuba ve Zlíchově
+@ 2020-05-14 20:18:41
+state ANSWER
+@ 2020-05-14 20:18:41
+time 231
+@ 2020-05-14 20:18:41
+money 4
+@ 2020-05-14 20:19:47
+# wrong_answer 13 Týn nad Vltavou
+@ 2020-05-14 20:19:54
+# wrong_answer 13 Zvěrkovice
+@ 2020-05-14 20:20:08
+# wrong_answer 13 Dříteň
+@ 2020-05-14 20:20:21
+# wrong_answer 13 Všemyslice
+@ 2020-05-14 20:22:18
+# wrong_answer 13 Kaliště
+@ 2020-05-14 20:23:51
+state MOVE
+@ 2020-05-14 20:23:51
+# correct_answer 13 Litoradlice
+@ 2020-05-14 20:24:00
+place Kostel sv. Pankráce
+@ 2020-05-14 20:24:00
+state ANSWER
+@ 2020-05-14 20:24:00
+time 198
+@ 2020-05-14 20:24:00
+money 4
+@ 2020-05-14 20:31:27
+# hint 11 0
+@ 2020-05-14 20:31:27
+money 3
+@ 2020-05-14 20:38:45
+# hint 15 0
+@ 2020-05-14 20:38:45
+money 2
+@ 2020-05-14 20:43:06
+# wrong_answer 15 Karel skalický
+@ 2020-05-14 20:43:12
+# wrong_answer 15 Karel Skalický
+@ 2020-05-14 20:43:28
+state MOVE
+@ 2020-05-14 20:43:28
+# correct_answer 15 Skalický
+@ 2020-05-14 20:43:40
+place Kostel sv. Františka z Assisi v Krči
+@ 2020-05-14 20:43:40
+state ANSWER
+@ 2020-05-14 20:43:40
+time 190
+@ 2020-05-14 20:43:40
+money 1
+@ 2020-05-14 20:47:40
+state MOVE
+@ 2020-05-14 20:47:40
+# correct_answer 12 Itálie, Jugoslávie
+@ 2020-05-14 20:48:04
+place Kostel Narození Panny Marie v Michli
+@ 2020-05-14 20:48:04
+state ANSWER
+@ 2020-05-14 20:48:04
+time 172
+@ 2020-05-14 20:48:04
+money 1
+@ 2020-05-14 20:57:06
+# hint 14 0
+@ 2020-05-14 20:57:06
+money 0
+@ 2020-05-14 21:04:58
+# wrong_answer 14 ester, kříž
+@ 2020-05-14 21:05:28
+# wrong_answer 14 Šalamoun, kříž
+@ 2020-05-14 21:05:54
+# wrong_answer 14 kniha ester, kříž
+@ 2020-05-14 21:08:07
+# wrong_answer 14 svitek ester kříž
+@ 2020-05-14 21:08:19
+# wrong_answer 14 šalamoun kříž
+@ 2020-05-14 21:08:54
+# hint 14 1
+@ 2020-05-14 21:08:54
+money -4
+@ 2020-05-14 21:09:27
+state MOVE
+@ 2020-05-14 21:09:27
+# correct_answer 14 ester, varhany
+@ 2020-05-14 21:09:48
+place Kostel sv. Václava v Nuslích
+@ 2020-05-14 21:09:48
+state ANSWER
+@ 2020-05-14 21:09:48
+time 147
+@ 2020-05-14 21:09:48
+money -4
+@ 2020-05-14 21:13:03
+state MOVE
+@ 2020-05-14 21:13:03
+# correct_answer 16 Haštalské náměstí
+@ 2020-05-14 21:13:30
+place Evangelický kostel v Nuslích
+@ 2020-05-14 21:13:30
+state ANSWER
+@ 2020-05-14 21:13:30
+time 138
+@ 2020-05-14 21:13:30
+money -4
+@ 2020-05-14 21:18:07
+state MOVE
+@ 2020-05-14 21:18:07
+# correct_answer 17 pomáhám stavet kotedrálu
+@ 2020-05-14 21:18:24
+place Kostel Panny Marie a sv. Karla Velikého
+@ 2020-05-14 21:18:24
+state ANSWER
+@ 2020-05-14 21:18:24
+time 123
+@ 2020-05-14 21:18:24
+money -4
+@ 2020-05-14 21:39:34
+# wrong_answer 20 Třeboň, Hluboká, Pardubice
+@ 2020-05-15 10:58:56
+# hint 20 0
+@ 2020-05-15 10:58:56
+money -5
+@ 2020-05-15 11:01:58
+# hint 20 1
+@ 2020-05-15 11:01:58
+money -9
+@ 2020-05-15 11:07:37
+# wrong_answer 20 Krakovec, Grabštejn, Bechyně Zámek
+@ 2020-05-15 11:07:54
+# wrong_answer 20 16,28,40
+@ 2020-05-15 11:10:35
+state MOVE
+@ 2020-05-15 11:10:35
+# correct_answer 20 16, 28, 40, 75, 80, 100
+@ 2020-05-15 11:20:24
+place Kostel sv. Apolináře
+@ 2020-05-15 11:20:24
+state ANSWER
+@ 2020-05-15 11:20:24
+time 117
+@ 2020-05-15 11:20:24
+money -9

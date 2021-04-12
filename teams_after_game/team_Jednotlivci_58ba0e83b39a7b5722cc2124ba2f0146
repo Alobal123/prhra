@@ -1,0 +1,116 @@
+@ 2020-05-14 19:36:23
+place Kostel sv. Cyrila a Metoděje v Nebušicích
+@ 2020-05-14 19:36:23
+state ANSWER
+@ 2020-05-14 19:36:23
+time 360
+@ 2020-05-14 19:36:23
+money 5
+@ 2020-05-14 19:45:34
+state MOVE
+@ 2020-05-14 19:45:34
+# correct_answer 2 Každý by chtěl ecoin
+@ 2020-05-14 19:46:27
+place Bazilika sv. Markéty
+@ 2020-05-14 19:46:27
+state ANSWER
+@ 2020-05-14 19:46:27
+time 347
+@ 2020-05-14 19:46:27
+money 4
+@ 2020-05-14 20:00:30
+state MOVE
+@ 2020-05-14 20:00:30
+# correct_answer 8 19
+@ 2020-05-14 20:01:30
+place Bazilika Nanebevzetí Panny Marie
+@ 2020-05-14 20:01:30
+state ANSWER
+@ 2020-05-14 20:01:30
+time 339
+@ 2020-05-14 20:01:30
+money 3
+@ 2020-05-14 20:04:25
+state MOVE
+@ 2020-05-14 20:04:25
+# correct_answer 11 Gabriel
+@ 2020-05-14 20:05:07
+place Kostel sv. Vavřince pod Petřínem
+@ 2020-05-14 20:05:07
+state ANSWER
+@ 2020-05-14 20:05:07
+time 329
+@ 2020-05-14 20:05:07
+money 3
+@ 2020-05-14 20:19:27
+# hint 14 0
+@ 2020-05-14 20:19:27
+money 2
+@ 2020-05-14 20:23:32
+# wrong_answer 14 Píseň písní
+@ 2020-05-14 20:26:19
+# hint 14 1
+@ 2020-05-14 20:26:19
+money -2
+@ 2020-05-14 20:26:48
+state MOVE
+@ 2020-05-14 20:26:48
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 20:27:55
+place Kostel sv. Jana Nepomuckého v Košiřích
+@ 2020-05-14 20:27:55
+state ANSWER
+@ 2020-05-14 20:27:55
+time 320
+@ 2020-05-14 20:27:55
+money -3
+@ 2020-05-14 20:42:13
+# wrong_answer 10 DWLIWJETWIABEWWI
+@ 2020-05-14 20:43:33
+# wrong_answer 10 DWLIWJETWIAXEWWI
+@ 2020-05-14 20:44:25
+# wrong_answer 10 DWLIWJETWIAXEJWI
+@ 2020-05-14 20:47:38
+# wrong_answer 10 DWLIWJETWIAXEJWI
+@ 2020-05-14 20:50:59
+# wrong_answer 10 DWLIWJETWIABEJWI
+@ 2020-05-14 20:51:41
+# hint 10 1
+@ 2020-05-14 20:51:41
+money -7
+@ 2020-05-14 20:52:25
+state MOVE
+@ 2020-05-14 20:52:25
+# correct_answer 10 7
+@ 2020-05-14 20:54:36
+place Kostel sv. Prokopa ve Stodůlkách
+@ 2020-05-14 20:54:36
+state ANSWER
+@ 2020-05-14 20:54:36
+time 276
+@ 2020-05-14 20:54:36
+money -7
+@ 2020-05-14 21:09:11
+# wrong_answer 7 29.1.2021, 5.9.2039
+@ 2020-05-14 21:11:58
+# wrong_answer 7 29.1.2021, 6.9.2039
+@ 2020-05-14 21:12:06
+# wrong_answer 7 28.1.2021, 6.9.2039
+@ 2020-05-14 21:12:44
+# wrong_answer 7 28.1.2021, 5.9.2039
+@ 2020-05-14 21:13:53
+# hint 7 1
+@ 2020-05-14 21:13:53
+money -11
+@ 2020-05-14 21:14:11
+state MOVE
+@ 2020-05-14 21:14:11
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 21:14:57
+place Kostel sv. Vavřince v Jinonicích
+@ 2020-05-14 21:14:57
+state ANSWER
+@ 2020-05-14 21:14:57
+time 250
+@ 2020-05-14 21:14:57
+money -11

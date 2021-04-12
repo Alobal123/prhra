@@ -1,0 +1,218 @@
+@ 2020-05-14 19:30:57
+place Kostel sv. Rodiny
+@ 2020-05-14 19:30:57
+state ANSWER
+@ 2020-05-14 19:30:57
+time 360
+@ 2020-05-14 19:30:57
+money 5
+@ 2020-05-14 19:33:21
+# wrong_answer 1 Kostel svatého Antonína Paduánského
+@ 2020-05-14 19:33:38
+state MOVE
+@ 2020-05-14 19:33:38
+# correct_answer 1 Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:34:14
+place Kostel sv. Martina v Řepích
+@ 2020-05-14 19:34:14
+state ANSWER
+@ 2020-05-14 19:34:14
+time 353
+@ 2020-05-14 19:34:14
+money 5
+@ 2020-05-14 20:02:48
+# wrong_answer 3 5abf
+@ 2020-05-14 20:03:11
+# wrong_answer 3 ed8a
+@ 2020-05-14 20:03:39
+# wrong_answer 3 0141
+@ 2020-05-14 20:04:10
+# wrong_answer 3 8d00
+@ 2020-05-14 20:05:58
+# wrong_answer 3 7ffe
+@ 2020-05-14 20:09:28
+# wrong_answer 3 19bb
+@ 2020-05-14 20:10:22
+# wrong_answer 3 9160
+@ 2020-05-14 20:12:30
+# wrong_answer 3 f4ea
+@ 2020-05-14 20:13:23
+state MOVE
+@ 2020-05-14 20:13:23
+# correct_answer 3 8859
+@ 2020-05-14 20:16:22
+place Kostel Panny Marie Vítězné
+@ 2020-05-14 20:16:22
+state ANSWER
+@ 2020-05-14 20:16:22
+time 326
+@ 2020-05-14 20:16:22
+money 5
+@ 2020-05-14 20:23:34
+# wrong_answer 6 Sv. Jan, S
+@ 2020-05-14 20:24:21
+# wrong_answer 6 sv. Jan, S
+@ 2020-05-14 20:24:32
+# wrong_answer 6 sv. Jan, SV
+@ 2020-05-14 20:24:40
+# wrong_answer 6 sv. Jan, SZ
+@ 2020-05-14 20:25:02
+# wrong_answer 6 sv. Jan, JV
+@ 2020-05-14 20:25:28
+state MOVE
+@ 2020-05-14 20:25:28
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 20:26:18
+place Kostel sv. Fabiána a Šebestiána
+@ 2020-05-14 20:26:18
+state ANSWER
+@ 2020-05-14 20:26:18
+time 304
+@ 2020-05-14 20:26:18
+money 5
+@ 2020-05-14 20:31:31
+state MOVE
+@ 2020-05-14 20:31:31
+# correct_answer 5 Píseň písní, meč, Jakub
+@ 2020-05-14 20:32:11
+place Kostel sv. Jana v Trní
+@ 2020-05-14 20:32:11
+state ANSWER
+@ 2020-05-14 20:32:11
+time 256
+@ 2020-05-14 20:32:11
+money 5
+@ 2020-05-14 20:43:58
+state MOVE
+@ 2020-05-14 20:43:58
+# correct_answer 4 Svatá Terezie z Lisieux
+@ 2020-05-14 20:45:16
+place Kostel sv. Vojtěcha v Dejvicích
+@ 2020-05-14 20:45:16
+state ANSWER
+@ 2020-05-14 20:45:16
+time 248
+@ 2020-05-14 20:45:16
+money 4
+@ 2020-05-14 20:52:50
+state MOVE
+@ 2020-05-14 20:52:50
+# correct_answer 8 19
+@ 2020-05-14 20:53:06
+place Kostel sv. Václava v Dejvicích
+@ 2020-05-14 20:53:06
+state ANSWER
+@ 2020-05-14 20:53:06
+time 232
+@ 2020-05-14 20:53:06
+money 4
+@ 2020-05-14 21:00:07
+state MOVE
+@ 2020-05-14 21:00:07
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 21:00:34
+place Evangelický kostel ve Střešovicích
+@ 2020-05-14 21:00:34
+state ANSWER
+@ 2020-05-14 21:00:34
+time 219
+@ 2020-05-14 21:00:34
+money 4
+@ 2020-05-14 21:18:24
+state MOVE
+@ 2020-05-14 21:18:24
+# correct_answer 9 Café Jehuda
+@ 2020-05-14 21:18:52
+place Kostel sv. Norberta
+@ 2020-05-14 21:18:52
+state ANSWER
+@ 2020-05-14 21:18:52
+time 214
+@ 2020-05-14 21:18:52
+money 4
+@ 2020-05-14 21:36:12
+state MOVE
+@ 2020-05-14 21:36:12
+# correct_answer 10 7
+@ 2020-05-14 21:36:29
+place Kostel Narození Páně
+@ 2020-05-14 21:36:29
+state ANSWER
+@ 2020-05-14 21:36:29
+time 197
+@ 2020-05-14 21:36:29
+money 4
+@ 2020-05-14 21:41:24
+state MOVE
+@ 2020-05-14 21:41:24
+# correct_answer 13 Litoradlice
+@ 2020-05-14 21:41:44
+place Bazilika Nanebevzetí Panny Marie
+@ 2020-05-14 21:41:44
+state ANSWER
+@ 2020-05-14 21:41:44
+time 191
+@ 2020-05-14 21:41:44
+money 4
+@ 2020-05-14 21:42:33
+state MOVE
+@ 2020-05-14 21:42:33
+# correct_answer 11 Gabriel
+@ 2020-05-14 21:43:07
+place Kostel sv. Vavřince pod Petřínem
+@ 2020-05-14 21:43:07
+state ANSWER
+@ 2020-05-14 21:43:07
+time 181
+@ 2020-05-14 21:43:07
+money 4
+@ 2020-05-14 21:47:04
+# wrong_answer 14 Píseň písní, varhany
+@ 2020-05-14 21:53:35
+state MOVE
+@ 2020-05-14 21:53:35
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 21:54:04
+place Kostel sv. Michala
+@ 2020-05-14 21:54:04
+state ANSWER
+@ 2020-05-14 21:54:04
+time 172
+@ 2020-05-14 21:54:04
+money 4
+@ 2020-05-14 22:02:51
+state MOVE
+@ 2020-05-14 22:02:51
+# correct_answer 15 Skalický
+@ 2020-05-14 22:03:11
+place Sacré Coeur - kostel Nejsvětějšího Srdce Ježíšova
+@ 2020-05-14 22:03:11
+state ANSWER
+@ 2020-05-14 22:03:11
+time 167
+@ 2020-05-14 22:03:11
+money 4
+@ 2020-05-14 22:08:20
+state MOVE
+@ 2020-05-14 22:08:20
+# correct_answer 16 Haštalské náměstí
+@ 2020-05-14 22:08:35
+place Bazilika sv. Václava
+@ 2020-05-14 22:08:35
+state ANSWER
+@ 2020-05-14 22:08:35
+time 159
+@ 2020-05-14 22:08:35
+money 4
+@ 2020-05-14 22:15:58
+state MOVE
+@ 2020-05-14 22:15:58
+# correct_answer 17 Pomáhám stavět kotedrálu
+@ 2020-05-14 22:45:14
+place Pravoslavný chrám sv. Cyrila a Metoděje
+@ 2020-05-14 22:45:14
+state ANSWER
+@ 2020-05-14 22:45:14
+time 144
+@ 2020-05-14 22:45:14
+money 4

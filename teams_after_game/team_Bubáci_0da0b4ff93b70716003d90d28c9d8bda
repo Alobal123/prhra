@@ -1,0 +1,140 @@
+@ 2020-05-14 19:31:57
+place Kostel sv. Cyrila a Metoděje v Nebušicích
+@ 2020-05-14 19:31:57
+state ANSWER
+@ 2020-05-14 19:31:57
+time 360
+@ 2020-05-14 19:31:57
+money 5
+@ 2020-05-14 19:37:46
+state MOVE
+@ 2020-05-14 19:37:46
+# correct_answer 2 Každý by chtěl ecoin
+@ 2020-05-14 19:38:48
+place Kostel sv. Jana v Trní
+@ 2020-05-14 19:38:48
+state ANSWER
+@ 2020-05-14 19:38:48
+time 325
+@ 2020-05-14 19:38:48
+money 5
+@ 2020-05-14 19:48:43
+state MOVE
+@ 2020-05-14 19:48:43
+# correct_answer 4 Svatá Terezie z Lisieux
+@ 2020-05-14 19:49:43
+place Kostel sv. Matěje
+@ 2020-05-14 19:49:43
+state ANSWER
+@ 2020-05-14 19:49:43
+time 296
+@ 2020-05-14 19:49:43
+money 5
+@ 2020-05-14 19:59:03
+state MOVE
+@ 2020-05-14 19:59:03
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 19:59:37
+place Kostel sv. Vojtěcha v Dejvicích
+@ 2020-05-14 19:59:37
+state ANSWER
+@ 2020-05-14 19:59:37
+time 274
+@ 2020-05-14 19:59:37
+money 5
+@ 2020-05-14 20:06:15
+# wrong_answer 8 18
+@ 2020-05-14 20:08:24
+# wrong_answer 8 17
+@ 2020-05-14 20:08:53
+# wrong_answer 8 20
+@ 2020-05-14 20:22:02
+# wrong_answer 8 21
+@ 2020-05-14 20:22:15
+state MOVE
+@ 2020-05-14 20:22:15
+# correct_answer 8 19
+@ 2020-05-14 20:22:59
+place Husův sbor v Dejvicích
+@ 2020-05-14 20:22:59
+state ANSWER
+@ 2020-05-14 20:22:59
+time 259
+@ 2020-05-14 20:22:59
+money 5
+@ 2020-05-14 20:28:20
+state MOVE
+@ 2020-05-14 20:28:20
+# correct_answer 12 Itálie, Jugoslávie
+@ 2020-05-14 20:29:23
+place Katedrála sv. Víta, Václava a Vojtěcha
+@ 2020-05-14 20:29:23
+state ANSWER
+@ 2020-05-14 20:29:23
+time 246
+@ 2020-05-14 20:29:23
+money 5
+@ 2020-05-14 20:48:03
+state MOVE
+@ 2020-05-14 20:48:03
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 20:48:38
+place Kostel Narození Páně
+@ 2020-05-14 20:48:38
+state ANSWER
+@ 2020-05-14 20:48:38
+time 235
+@ 2020-05-14 20:48:38
+money 5
+@ 2020-05-14 20:57:26
+# wrong_answer 13 Malá Strana
+@ 2020-05-14 21:05:15
+# wrong_answer 13 Bohunice
+@ 2020-05-14 21:18:59
+# wrong_answer 13 Vyšehrad
+@ 2020-05-14 21:22:12
+# hint 13 0
+@ 2020-05-14 21:22:12
+money 4
+@ 2020-05-14 21:25:32
+# hint 13 1
+@ 2020-05-14 21:25:32
+money 0
+@ 2020-05-14 21:25:48
+# wrong_answer 13 Litoradice
+@ 2020-05-14 21:26:36
+state MOVE
+@ 2020-05-14 21:26:36
+# correct_answer 13 Litoradlice
+@ 2020-05-14 21:26:44
+place Bazilika Nanebevzetí Panny Marie
+@ 2020-05-14 21:26:44
+state ANSWER
+@ 2020-05-14 21:26:44
+time 229
+@ 2020-05-14 21:26:44
+money 0
+@ 2020-05-14 21:28:53
+state MOVE
+@ 2020-05-14 21:28:53
+# correct_answer 11 Gabriel
+@ 2020-05-14 21:29:07
+place Kostel sv. Vavřince pod Petřínem
+@ 2020-05-14 21:29:07
+state ANSWER
+@ 2020-05-14 21:29:07
+time 219
+@ 2020-05-14 21:29:07
+money 0
+@ 2020-05-14 21:29:25
+state MOVE
+@ 2020-05-14 21:29:25
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 21:29:35
+place Kostel sv. Michala
+@ 2020-05-14 21:29:35
+state ANSWER
+@ 2020-05-14 21:29:35
+time 210
+@ 2020-05-14 21:29:35
+money 0

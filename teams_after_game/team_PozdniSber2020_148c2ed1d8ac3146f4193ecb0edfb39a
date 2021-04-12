@@ -1,0 +1,184 @@
+@ 2020-05-14 19:31:20
+place Kostel sv. Prokopa v Šeberově
+@ 2020-05-14 19:31:20
+state ANSWER
+@ 2020-05-14 19:31:20
+time 360
+@ 2020-05-14 19:31:20
+money 5
+@ 2020-05-14 19:33:55
+state MOVE
+@ 2020-05-14 19:33:55
+# correct_answer 1 kostel sv. Antonina Paduanskeho
+@ 2020-05-14 19:36:41
+place Kostel Církve bratrské v Šeberově
+@ 2020-05-14 19:36:41
+state ANSWER
+@ 2020-05-14 19:36:41
+time 335
+@ 2020-05-14 19:36:41
+money 5
+@ 2020-05-14 19:45:13
+# wrong_answer 3 72d6
+@ 2020-05-14 19:57:21
+# wrong_answer 3 aecc
+@ 2020-05-14 19:57:28
+# wrong_answer 3 aecc
+@ 2020-05-14 19:57:48
+# wrong_answer 3 2d06
+@ 2020-05-14 19:59:09
+# wrong_answer 3 c51d
+@ 2020-05-14 19:59:16
+# wrong_answer 3 c51d
+@ 2020-05-14 20:04:42
+# wrong_answer 3 39d0
+@ 2020-05-14 20:04:55
+# wrong_answer 3 39d0
+@ 2020-05-14 20:05:25
+state MOVE
+@ 2020-05-14 20:05:25
+# correct_answer 3 8859
+@ 2020-05-14 20:06:59
+place Kostel sv. Jakuba Staršího v Kunraticích
+@ 2020-05-14 20:06:59
+state ANSWER
+@ 2020-05-14 20:06:59
+time 301
+@ 2020-05-14 20:06:59
+money 5
+@ 2020-05-14 20:11:13
+# wrong_answer 6 S
+@ 2020-05-14 20:12:13
+# wrong_answer 6 J
+@ 2020-05-14 20:13:03
+# wrong_answer 6 SZ
+@ 2020-05-14 20:13:52
+# wrong_answer 6 sv. Jan, S
+@ 2020-05-14 20:14:04
+# wrong_answer 6 sv. Jan Nepomuckym, S
+@ 2020-05-14 20:14:16
+state MOVE
+@ 2020-05-14 20:14:16
+# correct_answer 6 sv. Jan Nepomucky, S
+@ 2020-05-14 20:14:43
+place Kostel sv. Františka z Assisi v Krči
+@ 2020-05-14 20:14:43
+state ANSWER
+@ 2020-05-14 20:14:43
+time 287
+@ 2020-05-14 20:14:43
+money 4
+@ 2020-05-14 20:17:46
+# wrong_answer 12 rusko, ukrajina
+@ 2020-05-14 20:18:36
+state MOVE
+@ 2020-05-14 20:18:36
+# correct_answer 12 itálie, jugoslavie
+@ 2020-05-14 20:19:22
+place Kostel Narození Panny Marie v Michli
+@ 2020-05-14 20:19:22
+state ANSWER
+@ 2020-05-14 20:19:22
+time 269
+@ 2020-05-14 20:19:22
+money 4
+@ 2020-05-14 20:32:09
+state MOVE
+@ 2020-05-14 20:32:09
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 20:34:20
+place Kostel sv. Václava v Nuslích
+@ 2020-05-14 20:34:20
+state ANSWER
+@ 2020-05-14 20:34:20
+time 244
+@ 2020-05-14 20:34:20
+money 4
+@ 2020-05-14 20:47:28
+state MOVE
+@ 2020-05-14 20:47:28
+# correct_answer 16 haštalske namesti
+@ 2020-05-14 20:47:49
+place Kostel sv. Mikuláše
+@ 2020-05-14 20:47:49
+state ANSWER
+@ 2020-05-14 20:47:49
+time 226
+@ 2020-05-14 20:47:49
+money 4
+@ 2020-05-14 20:58:41
+# wrong_answer 18 43
+@ 2020-05-14 20:58:44
+# wrong_answer 18 42
+@ 2020-05-14 20:58:47
+# wrong_answer 18 41
+@ 2020-05-14 20:58:53
+# wrong_answer 18 44
+@ 2020-05-14 20:58:56
+# wrong_answer 18 45
+@ 2020-05-14 21:04:48
+# wrong_answer 18 40
+@ 2020-05-14 21:05:11
+# wrong_answer 18 38
+@ 2020-05-14 21:05:16
+# wrong_answer 18 39
+@ 2020-05-14 21:05:23
+# wrong_answer 18 48
+@ 2020-05-14 21:05:25
+# wrong_answer 18 49
+@ 2020-05-14 21:05:28
+# wrong_answer 18 50
+@ 2020-05-14 21:05:58
+# wrong_answer 18 22
+@ 2020-05-14 21:06:00
+# wrong_answer 18 23
+@ 2020-05-14 21:06:02
+# wrong_answer 18 24
+@ 2020-05-14 21:06:04
+# wrong_answer 18 25
+@ 2020-05-14 21:06:06
+# wrong_answer 18 26
+@ 2020-05-14 21:06:10
+# wrong_answer 18 27
+@ 2020-05-14 21:06:12
+# wrong_answer 18 28
+@ 2020-05-14 21:06:14
+# wrong_answer 18 29
+@ 2020-05-14 21:06:17
+# wrong_answer 18 30
+@ 2020-05-14 21:06:20
+state MOVE
+@ 2020-05-14 21:06:20
+# correct_answer 18 31
+@ 2020-05-14 21:06:56
+place Husův sbor ve Vinohradech
+@ 2020-05-14 21:06:56
+state ANSWER
+@ 2020-05-14 21:06:56
+time 216
+@ 2020-05-14 21:06:56
+money 4
+@ 2020-05-14 21:33:57
+# hint 20 0
+@ 2020-05-14 21:33:57
+money 3
+@ 2020-05-14 22:06:40
+# hint 20 1
+@ 2020-05-14 22:06:40
+money -1
+@ 2020-05-14 22:12:14
+# hint 16 0
+@ 2020-05-14 22:12:14
+money -2
+@ 2020-05-14 22:12:22
+# hint 16 1
+@ 2020-05-14 22:12:22
+money -6
+@ 2020-05-14 22:15:47
+# hint 18 1
+@ 2020-05-14 22:15:47
+money -10
+@ 2020-05-14 22:15:51
+# hint 18 0
+@ 2020-05-14 22:15:51
+money -11

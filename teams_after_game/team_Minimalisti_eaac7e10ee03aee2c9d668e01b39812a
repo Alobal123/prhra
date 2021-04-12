@@ -1,0 +1,302 @@
+@ 2020-05-14 19:31:26
+place Kostel sv. Václava v Bohnicích
+@ 2020-05-14 19:31:26
+state ANSWER
+@ 2020-05-14 19:31:26
+time 360
+@ 2020-05-14 19:31:26
+money 5
+@ 2020-05-14 19:39:08
+state MOVE
+@ 2020-05-14 19:39:08
+# correct_answer 1 Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:39:58
+place Kostel sv. Petra a Pavla v Bohnicích
+@ 2020-05-14 19:39:58
+state ANSWER
+@ 2020-05-14 19:39:58
+time 350
+@ 2020-05-14 19:39:58
+money 5
+@ 2020-05-14 19:47:46
+# wrong_answer 3 0015
+@ 2020-05-14 19:48:36
+# wrong_answer 3 4
+@ 2020-05-14 19:48:43
+# wrong_answer 3 0004
+@ 2020-05-14 19:50:29
+# wrong_answer 3 36bc
+@ 2020-05-14 19:51:54
+# wrong_answer 3 71ed
+@ 2020-05-14 19:53:23
+# hint 3 0
+@ 2020-05-14 19:53:23
+money 4
+@ 2020-05-14 19:54:27
+# hint 3 1
+@ 2020-05-14 19:54:27
+money 0
+@ 2020-05-14 19:54:51
+state MOVE
+@ 2020-05-14 19:54:51
+# correct_answer 3 8859
+@ 2020-05-14 19:55:43
+place Kostel sv. Matěje
+@ 2020-05-14 19:55:43
+state ANSWER
+@ 2020-05-14 19:55:43
+time 289
+@ 2020-05-14 19:55:43
+money 0
+@ 2020-05-14 20:01:45
+# wrong_answer 6 Svatý Jan Nepomucký, S
+@ 2020-05-14 20:02:07
+state MOVE
+@ 2020-05-14 20:02:07
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 20:03:16
+place Kostel sv. Vojtěcha v Dejvicích
+@ 2020-05-14 20:03:16
+state ANSWER
+@ 2020-05-14 20:03:16
+time 267
+@ 2020-05-14 20:03:16
+money 0
+@ 2020-05-14 20:05:48
+# wrong_answer 8 55
+@ 2020-05-14 20:05:52
+# wrong_answer 8 56
+@ 2020-05-14 20:05:55
+# wrong_answer 8 57
+@ 2020-05-14 20:05:57
+# wrong_answer 8 58
+@ 2020-05-14 20:05:59
+# wrong_answer 8 59
+@ 2020-05-14 20:06:01
+# wrong_answer 8 60
+@ 2020-05-14 20:06:04
+# wrong_answer 8 61
+@ 2020-05-14 20:06:07
+# wrong_answer 8 62
+@ 2020-05-14 20:06:09
+# wrong_answer 8 63
+@ 2020-05-14 20:06:13
+# wrong_answer 8 64
+@ 2020-05-14 20:06:15
+# wrong_answer 8 65
+@ 2020-05-14 20:06:17
+# wrong_answer 8 66
+@ 2020-05-14 20:06:19
+# wrong_answer 8 67
+@ 2020-05-14 20:06:23
+# wrong_answer 8 68
+@ 2020-05-14 20:06:25
+# wrong_answer 8 69
+@ 2020-05-14 20:06:27
+# wrong_answer 8 70
+@ 2020-05-14 20:06:32
+# wrong_answer 8 71
+@ 2020-05-14 20:06:41
+# wrong_answer 8 50
+@ 2020-05-14 20:06:46
+# wrong_answer 8 49
+@ 2020-05-14 20:06:49
+# wrong_answer 8 48
+@ 2020-05-14 20:06:51
+# wrong_answer 8 47
+@ 2020-05-14 20:06:53
+# wrong_answer 8 46
+@ 2020-05-14 20:06:57
+# wrong_answer 8 45
+@ 2020-05-14 20:06:59
+# wrong_answer 8 44
+@ 2020-05-14 20:07:03
+# wrong_answer 8 43
+@ 2020-05-14 20:07:08
+# wrong_answer 8 42
+@ 2020-05-14 20:07:10
+# wrong_answer 8 41
+@ 2020-05-14 20:07:13
+# wrong_answer 8 40
+@ 2020-05-14 20:07:16
+# wrong_answer 8 39
+@ 2020-05-14 20:07:19
+# wrong_answer 8 38
+@ 2020-05-14 20:07:21
+# wrong_answer 8 37
+@ 2020-05-14 20:07:23
+# wrong_answer 8 36
+@ 2020-05-14 20:07:26
+# wrong_answer 8 35
+@ 2020-05-14 20:07:30
+# wrong_answer 8 34
+@ 2020-05-14 20:07:32
+# wrong_answer 8 33
+@ 2020-05-14 20:07:36
+# wrong_answer 8 50
+@ 2020-05-14 20:07:38
+# wrong_answer 8 50
+@ 2020-05-14 20:07:40
+# wrong_answer 8 51
+@ 2020-05-14 20:07:42
+# wrong_answer 8 52
+@ 2020-05-14 20:07:45
+# wrong_answer 8 53
+@ 2020-05-14 20:07:47
+# wrong_answer 8 54
+@ 2020-05-14 20:07:49
+# wrong_answer 8 55
+@ 2020-05-14 20:08:10
+# wrong_answer 8 40
+@ 2020-05-14 20:08:13
+# wrong_answer 8 39
+@ 2020-05-14 20:08:16
+# wrong_answer 8 38
+@ 2020-05-14 20:08:18
+# wrong_answer 8 37
+@ 2020-05-14 20:08:20
+# wrong_answer 8 36
+@ 2020-05-14 20:08:23
+# wrong_answer 8 35
+@ 2020-05-14 20:08:25
+# wrong_answer 8 34
+@ 2020-05-14 20:08:27
+# wrong_answer 8 33
+@ 2020-05-14 20:08:29
+# wrong_answer 8 32
+@ 2020-05-14 20:08:32
+# wrong_answer 8 31
+@ 2020-05-14 20:08:34
+# wrong_answer 8 30¨
+@ 2020-05-14 20:08:37
+# wrong_answer 8 30
+@ 2020-05-14 20:08:40
+# wrong_answer 8 29
+@ 2020-05-14 20:08:44
+# wrong_answer 8 29
+@ 2020-05-14 20:08:47
+# wrong_answer 8 28
+@ 2020-05-14 20:08:50
+# wrong_answer 8 27
+@ 2020-05-14 20:08:52
+# wrong_answer 8 26
+@ 2020-05-14 20:08:54
+# wrong_answer 8 25
+@ 2020-05-14 20:08:57
+# wrong_answer 8 24
+@ 2020-05-14 20:08:59
+# wrong_answer 8 23
+@ 2020-05-14 20:09:01
+# wrong_answer 8 22
+@ 2020-05-14 20:09:06
+# wrong_answer 8 21
+@ 2020-05-14 20:09:09
+# wrong_answer 8 20
+@ 2020-05-14 20:09:11
+state MOVE
+@ 2020-05-14 20:09:11
+# correct_answer 8 19
+@ 2020-05-14 20:10:35
+place Husův sbor v Dejvicích
+@ 2020-05-14 20:10:35
+state ANSWER
+@ 2020-05-14 20:10:35
+time 252
+@ 2020-05-14 20:10:35
+money 0
+@ 2020-05-14 20:12:25
+state MOVE
+@ 2020-05-14 20:12:25
+# correct_answer 12 Itálie, Jugoslávie
+@ 2020-05-14 20:12:49
+place Katedrála sv. Víta, Václava a Vojtěcha
+@ 2020-05-14 20:12:49
+state ANSWER
+@ 2020-05-14 20:12:49
+time 239
+@ 2020-05-14 20:12:49
+money 0
+@ 2020-05-14 20:19:29
+state MOVE
+@ 2020-05-14 20:19:29
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 20:20:07
+place Kostel Narození Páně
+@ 2020-05-14 20:20:07
+state ANSWER
+@ 2020-05-14 20:20:07
+time 228
+@ 2020-05-14 20:20:07
+money 0
+@ 2020-05-14 20:24:39
+# wrong_answer 13 Týn nad Vltavou
+@ 2020-05-14 20:25:08
+# wrong_answer 13 Malá Strana
+@ 2020-05-14 20:34:10
+# wrong_answer 13 Na Dálkách
+@ 2020-05-14 20:34:17
+# wrong_answer 13 Na dálkách
+@ 2020-05-14 20:42:23
+# wrong_answer 13 Zvěrkovice
+@ 2020-05-14 20:51:55
+# wrong_answer 13 Křtěnov
+@ 2020-05-14 20:52:57
+state MOVE
+@ 2020-05-14 20:52:57
+# correct_answer 13 Litoradlice
+@ 2020-05-14 20:54:47
+place Kostel sv. Norberta
+@ 2020-05-14 20:54:47
+state ANSWER
+@ 2020-05-14 20:54:47
+time 211
+@ 2020-05-14 20:54:47
+money 0
+@ 2020-05-14 20:58:54
+state MOVE
+@ 2020-05-14 20:58:54
+# correct_answer 10 7
+@ 2020-05-14 20:59:15
+place Kostel Narození Páně
+@ 2020-05-14 20:59:15
+state ANSWER
+@ 2020-05-14 20:59:15
+time 194
+@ 2020-05-14 20:59:15
+money 0
+@ 2020-05-14 20:59:59
+state MOVE
+@ 2020-05-14 20:59:59
+# correct_answer 13 Litoradlice
+@ 2020-05-14 21:01:38
+place Katedrála sv. Víta, Václava a Vojtěcha
+@ 2020-05-14 21:01:38
+state ANSWER
+@ 2020-05-14 21:01:38
+time 183
+@ 2020-05-14 21:01:38
+money 0
+@ 2020-05-14 21:02:00
+state MOVE
+@ 2020-05-14 21:02:00
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 21:03:30
+place Kostel Matky Boží před Týnem
+@ 2020-05-14 21:03:30
+state ANSWER
+@ 2020-05-14 21:03:30
+time 178
+@ 2020-05-14 21:03:30
+money -1
+@ 2020-05-14 21:10:09
+state MOVE
+@ 2020-05-14 21:10:09
+# correct_answer 17 Pomaham stavet kotedralu
+@ 2020-05-14 21:11:00
+place Kostel Panny Marie Sněžné
+@ 2020-05-14 21:11:00
+state ANSWER
+@ 2020-05-14 21:11:00
+time 169
+@ 2020-05-14 21:11:00
+money -1

@@ -1,0 +1,280 @@
+@ 2020-05-14 19:32:23
+place Kostel sv. Václava v Bohnicích
+@ 2020-05-14 19:32:23
+state ANSWER
+@ 2020-05-14 19:32:23
+time 360
+@ 2020-05-14 19:32:23
+money 5
+@ 2020-05-14 19:37:54
+state MOVE
+@ 2020-05-14 19:37:54
+# correct_answer 1 Kostel sv. antonína paduánského
+@ 2020-05-14 19:38:19
+place Kostel sv. Terezie od Dítěte Ježíše
+@ 2020-05-14 19:38:19
+state ANSWER
+@ 2020-05-14 19:38:19
+time 321
+@ 2020-05-14 19:38:19
+money 5
+@ 2020-05-14 19:43:04
+# wrong_answer 5 Skutky apoštolů, meč, jakub
+@ 2020-05-14 19:43:17
+# wrong_answer 5 skutky, meč, jakub
+@ 2020-05-14 19:43:57
+# wrong_answer 5 Skutky, štěpán, kámen
+@ 2020-05-14 19:44:08
+# wrong_answer 5 skutky, kámen, štěpán
+@ 2020-05-14 19:44:44
+# wrong_answer 5 Skutky, meč, matouš
+@ 2020-05-14 19:44:50
+# wrong_answer 5 skutky, tomáš, meč
+@ 2020-05-14 19:45:01
+# wrong_answer 5 skutky, meč, tomáš
+@ 2020-05-14 19:45:11
+# wrong_answer 5 skutky, sekera, tadeáš
+@ 2020-05-14 19:45:46
+# wrong_answer 5 skutky, nůž, bartoloměj
+@ 2020-05-14 19:47:35
+# hint 5 0
+@ 2020-05-14 19:47:35
+money 4
+@ 2020-05-14 19:48:45
+# wrong_answer 5 Skutky apoštolů, meč, Šimon
+@ 2020-05-14 19:48:49
+# wrong_answer 5 Skutky apoštolů, meč, matouš
+@ 2020-05-14 19:48:55
+# wrong_answer 5 Skutky apoštolů, meč, ondřej
+@ 2020-05-14 19:49:21
+# wrong_answer 5 Skutky apoštolů, meč, bartoloměj
+@ 2020-05-14 19:49:26
+# wrong_answer 5 Skutky apoštolů, meč, tadeáš
+@ 2020-05-14 19:49:58
+# wrong_answer 5 Skutky apoštolů, meč, Filip
+@ 2020-05-14 19:50:54
+# wrong_answer 5 Svatební písně, meč, Bartoloměj
+@ 2020-05-14 19:51:02
+# wrong_answer 5 Svatební písně, meš, jakub
+@ 2020-05-14 19:51:09
+# wrong_answer 5 stavební písně, meč, jakub
+@ 2020-05-14 19:51:29
+# hint 5 1
+@ 2020-05-14 19:51:29
+money 0
+@ 2020-05-14 19:52:14
+state MOVE
+@ 2020-05-14 19:52:14
+# correct_answer 5 Píseň písní, meč, jakub
+@ 2020-05-14 19:52:40
+place Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:52:40
+state ANSWER
+@ 2020-05-14 19:52:40
+time 273
+@ 2020-05-14 19:52:40
+money 0
+@ 2020-05-14 19:53:42
+state MOVE
+@ 2020-05-14 19:53:42
+# correct_answer 11 Gabriel
+@ 2020-05-14 19:54:01
+place Kostel sv. Klimenta
+@ 2020-05-14 19:54:01
+state ANSWER
+@ 2020-05-14 19:54:01
+time 267
+@ 2020-05-14 19:54:01
+money 0
+@ 2020-05-14 19:56:28
+# wrong_answer 13 Křtěnov
+@ 2020-05-14 19:56:40
+# wrong_answer 13 Knín
+@ 2020-05-14 19:56:51
+# wrong_answer 13 temelínec
+@ 2020-05-14 19:56:54
+# wrong_answer 13 hůrka
+@ 2020-05-14 19:56:56
+# wrong_answer 13 hůlka
+@ 2020-05-14 19:57:30
+# wrong_answer 13 kočín
+@ 2020-05-14 19:57:33
+# wrong_answer 13 sedlec
+@ 2020-05-14 19:58:50
+# wrong_answer 13 litohradlice
+@ 2020-05-14 19:59:05
+state MOVE
+@ 2020-05-14 19:59:05
+# correct_answer 13 litoradlice
+@ 2020-05-14 20:00:10
+place Kostel sv. Petra na Novém Městě
+@ 2020-05-14 20:00:10
+state ANSWER
+@ 2020-05-14 20:00:10
+time 256
+@ 2020-05-14 20:00:10
+money 0
+@ 2020-05-14 20:01:03
+# wrong_answer 16 staroměstské náměstí
+@ 2020-05-14 20:01:09
+# wrong_answer 16 václavské náměstí
+@ 2020-05-14 20:03:55
+# wrong_answer 16 Náměstí republiky
+@ 2020-05-14 20:04:03
+# wrong_answer 16 Moravské náměstí
+@ 2020-05-14 20:04:09
+# wrong_answer 16 náměstí svobody
+@ 2020-05-14 20:05:15
+# hint 16 0
+@ 2020-05-14 20:05:15
+money -1
+@ 2020-05-14 20:07:53
+# wrong_answer 16 Horní náměstí
+@ 2020-05-14 20:08:39
+# wrong_answer 16 náměstí T. G. Masaryka
+@ 2020-05-14 20:08:52
+# hint 16 1
+@ 2020-05-14 20:08:52
+money -5
+@ 2020-05-14 20:09:09
+state MOVE
+@ 2020-05-14 20:09:09
+# correct_answer 16 Haštalské náměstí
+@ 2020-05-14 20:09:32
+place Kostel sv. Josefa
+@ 2020-05-14 20:09:32
+state ANSWER
+@ 2020-05-14 20:09:32
+time 249
+@ 2020-05-14 20:09:32
+money -5
+@ 2020-05-14 20:20:37
+# wrong_answer 19 Beran, Buzalka, Čársky, Eltschkner, Gojdič, Hlouch, Lazík, Matocha, Nécsey, Onderek. Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák
+@ 2020-05-14 20:22:16
+# wrong_answer 19 Beran, Buzalka, Čársky, Eltschkner, Gojdič, Hlouch, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák
+@ 2020-05-14 20:27:17
+# wrong_answer 19 Beran, Čársky, Eltschkner, Gojdič, Hlouch, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-14 20:30:39
+# wrong_answer 19 Beran, Buzalka, Čársky, Gojdič, Hlouch, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-14 20:39:53
+# wrong_answer 19 Beran, Buzalka, Čársky, Eltschkner, Gojdič, Hlouch, Lazík, Matocha, Nécsey, Onderek, Pícha, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-14 20:40:49
+# hint 19 1
+@ 2020-05-14 20:40:49
+money -9
+@ 2020-05-14 20:41:36
+state MOVE
+@ 2020-05-14 20:41:36
+# correct_answer 19 Beran, Čársky, Eltschkner, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Onderek, Pícha, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-14 20:42:08
+place Kostel sv. Jindřicha a Kunhuty
+@ 2020-05-14 20:42:08
+state ANSWER
+@ 2020-05-14 20:42:08
+time 242
+@ 2020-05-14 20:42:08
+money -9
+@ 2020-05-14 20:51:11
+# wrong_answer 18 42
+@ 2020-05-14 20:51:15
+# wrong_answer 18 36
+@ 2020-05-14 20:51:38
+# wrong_answer 18 40
+@ 2020-05-14 20:51:40
+# wrong_answer 18 39
+@ 2020-05-14 20:51:42
+# wrong_answer 18 38
+@ 2020-05-14 20:51:45
+# wrong_answer 18 37
+@ 2020-05-14 20:51:48
+# wrong_answer 18 36
+@ 2020-05-14 20:51:50
+# wrong_answer 18 35
+@ 2020-05-14 20:51:53
+# wrong_answer 18 34
+@ 2020-05-14 20:51:55
+# wrong_answer 18 33
+@ 2020-05-14 20:51:57
+# wrong_answer 18 32
+@ 2020-05-14 20:51:59
+state MOVE
+@ 2020-05-14 20:51:59
+# correct_answer 18 31
+@ 2020-05-14 20:52:55
+place Kostel Panny Marie Sněžné
+@ 2020-05-14 20:52:55
+state ANSWER
+@ 2020-05-14 20:52:55
+time 233
+@ 2020-05-14 20:52:55
+money -9
+@ 2020-05-14 21:05:26
+# hint 20 0
+@ 2020-05-14 21:05:26
+money -10
+@ 2020-05-14 21:09:12
+# hint 20 1
+@ 2020-05-14 21:09:12
+money -14
+@ 2020-05-14 21:09:30
+state MOVE
+@ 2020-05-14 21:09:30
+# correct_answer 20 16, 28, 40, 75, 80, 100
+@ 2020-05-14 21:09:53
+place Kostel Matky Boží před Týnem
+@ 2020-05-14 21:09:53
+state ANSWER
+@ 2020-05-14 21:09:53
+time 224
+@ 2020-05-14 21:09:53
+money -14
+@ 2020-05-14 21:16:08
+# wrong_answer 17 pomahám stavět katedrálu
+@ 2020-05-14 21:16:16
+# wrong_answer 17 pomáhám stavět katedrálu
+@ 2020-05-14 21:19:00
+# wrong_answer 17 pomáhám stavit katedrálu
+@ 2020-05-14 21:19:11
+# wrong_answer 17 pomáhám stavět katedrálu
+@ 2020-05-14 21:19:41
+# wrong_answer 17 pomáhám stavět katedrály
+@ 2020-05-14 21:19:49
+state MOVE
+@ 2020-05-14 21:19:49
+# correct_answer 17 pomáhám stavět kotedrálu
+@ 2020-05-14 21:20:18
+place Katedrála sv. Víta, Václava a Vojtěcha
+@ 2020-05-14 21:20:18
+state ANSWER
+@ 2020-05-14 21:20:18
+time 219
+@ 2020-05-14 21:20:18
+money -15
+@ 2020-05-14 21:24:58
+# wrong_answer 14 ester, kopule
+@ 2020-05-14 21:25:35
+# wrong_answer 14 ester, lucerna
+@ 2020-05-14 21:27:50
+state MOVE
+@ 2020-05-14 21:27:50
+# correct_answer 14 ester, varhany
+@ 2020-05-14 21:28:42
+place Kostel Narození Páně
+@ 2020-05-14 21:28:42
+state ANSWER
+@ 2020-05-14 21:28:42
+time 208
+@ 2020-05-14 21:28:42
+money -15
+@ 2020-05-14 21:29:23
+state MOVE
+@ 2020-05-14 21:29:23
+# correct_answer 13 litoradlice
+@ 2020-05-14 21:30:34
+place Kostel sv. Norberta
+@ 2020-05-14 21:30:34
+state ANSWER
+@ 2020-05-14 21:30:34
+time 191
+@ 2020-05-14 21:30:34
+money -15

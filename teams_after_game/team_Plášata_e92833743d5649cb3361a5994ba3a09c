@@ -1,0 +1,270 @@
+@ 2020-05-14 19:42:24
+place Kostel sv. Rodiny
+@ 2020-05-14 19:42:24
+state ANSWER
+@ 2020-05-14 19:42:24
+time 360
+@ 2020-05-14 19:42:24
+money 5
+@ 2020-05-14 19:46:12
+# wrong_answer 1 kostel svatého Antonína z Padovy 
+@ 2020-05-14 19:46:21
+# wrong_answer 1 kostel svatého Antonína
+@ 2020-05-14 19:46:52
+# wrong_answer 1 kostel svatého Antonína paduánského
+@ 2020-05-14 19:47:12
+# wrong_answer 1 Kostel svatého Antonína Paduánského
+@ 2020-05-14 19:48:11
+state MOVE
+@ 2020-05-14 19:48:11
+# correct_answer 1 Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:48:31
+place Kostel sv. Jakuba Staršího ve Stodůlkách
+@ 2020-05-14 19:48:31
+state ANSWER
+@ 2020-05-14 19:48:31
+time 316
+@ 2020-05-14 19:48:31
+money 5
+@ 2020-05-14 20:09:33
+# wrong_answer 5 svatební písně, meč, jakub
+@ 2020-05-14 20:10:45
+# wrong_answer 5 píseň písní, přirozená smrt, šsalamoun
+@ 2020-05-14 20:12:00
+# hint 5 0
+@ 2020-05-14 20:12:00
+money 4
+@ 2020-05-14 20:12:44
+# hint 5 1
+@ 2020-05-14 20:12:44
+money 0
+@ 2020-05-14 20:13:33
+# wrong_answer 5 píseň píseň, meč, jakub
+@ 2020-05-14 20:13:55
+state MOVE
+@ 2020-05-14 20:13:55
+# correct_answer 5 Píseň písní, meč, Jakub
+@ 2020-05-14 20:14:12
+place Kostel ve skanzenu Řepora
+@ 2020-05-14 20:14:12
+state ANSWER
+@ 2020-05-14 20:14:12
+time 299
+@ 2020-05-14 20:14:12
+money 0
+@ 2020-05-14 20:28:49
+state MOVE
+@ 2020-05-14 20:28:49
+# correct_answer 4 Svatá Terezie z Lisieux
+@ 2020-05-14 20:29:11
+place Kostel sv. Jana a Pavla
+@ 2020-05-14 20:29:11
+state ANSWER
+@ 2020-05-14 20:29:11
+time 282
+@ 2020-05-14 20:29:11
+money 0
+@ 2020-05-14 20:38:16
+state MOVE
+@ 2020-05-14 20:38:16
+# correct_answer 2 každý by chtěl ecoin
+@ 2020-05-14 20:40:14
+place Kostel sv. Petra a Pavla v Řeporyjích
+@ 2020-05-14 20:40:14
+state ANSWER
+@ 2020-05-14 20:40:14
+time 276
+@ 2020-05-14 20:40:14
+money -1
+@ 2020-05-14 21:00:11
+# wrong_answer 3 1fed
+@ 2020-05-14 21:06:14
+state MOVE
+@ 2020-05-14 21:06:14
+# correct_answer 3 8859
+@ 2020-05-14 21:06:38
+place Kostel Všech svatých v Slivenci
+@ 2020-05-14 21:06:38
+state ANSWER
+@ 2020-05-14 21:06:38
+time 220
+@ 2020-05-14 21:06:38
+money -1
+@ 2020-05-14 21:12:48
+state MOVE
+@ 2020-05-14 21:12:48
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 21:13:03
+place Kostel sv. Jana Nepomuckého ve Velké Chuchli
+@ 2020-05-14 21:13:03
+state ANSWER
+@ 2020-05-14 21:13:03
+time 181
+@ 2020-05-14 21:13:03
+money -1
+@ 2020-05-14 21:17:00
+# wrong_answer 8 1
+@ 2020-05-14 21:17:01
+# wrong_answer 8 2
+@ 2020-05-14 21:17:03
+# wrong_answer 8 3
+@ 2020-05-14 21:17:04
+# wrong_answer 8 4
+@ 2020-05-14 21:17:06
+# wrong_answer 8 5
+@ 2020-05-14 21:17:07
+# wrong_answer 8 6
+@ 2020-05-14 21:17:09
+# wrong_answer 8 7
+@ 2020-05-14 21:17:15
+# wrong_answer 8 7
+@ 2020-05-14 21:17:17
+# wrong_answer 8 8
+@ 2020-05-14 21:17:18
+# wrong_answer 8 9
+@ 2020-05-14 21:17:20
+# wrong_answer 8 10
+@ 2020-05-14 21:17:21
+# wrong_answer 8 11
+@ 2020-05-14 21:17:22
+# wrong_answer 8 12
+@ 2020-05-14 21:17:24
+# wrong_answer 8 13
+@ 2020-05-14 21:17:25
+# wrong_answer 8 14
+@ 2020-05-14 21:17:29
+# wrong_answer 8 15
+@ 2020-05-14 21:17:31
+# wrong_answer 8 16
+@ 2020-05-14 21:17:32
+# wrong_answer 8 17
+@ 2020-05-14 21:17:34
+# wrong_answer 8 18
+@ 2020-05-14 21:17:36
+state MOVE
+@ 2020-05-14 21:17:36
+# correct_answer 8 19
+@ 2020-05-14 21:18:52
+place Kostel Narození Panny Marie v Malé Chuchli
+@ 2020-05-14 21:18:52
+state ANSWER
+@ 2020-05-14 21:18:52
+time 167
+@ 2020-05-14 21:18:52
+money -1
+@ 2020-05-14 21:21:58
+state MOVE
+@ 2020-05-14 21:21:58
+# correct_answer 10 7
+@ 2020-05-14 21:22:15
+place Kostel sv. Prokopa v Braníku
+@ 2020-05-14 21:22:15
+state ANSWER
+@ 2020-05-14 21:22:15
+time 131
+@ 2020-05-14 21:22:15
+money -1
+@ 2020-05-14 21:23:25
+state MOVE
+@ 2020-05-14 21:23:25
+# correct_answer 11 gabriel
+@ 2020-05-14 21:23:38
+place Kostel sv. Filipa a Jakuba ve Zlíchově
+@ 2020-05-14 21:23:38
+state ANSWER
+@ 2020-05-14 21:23:38
+time 113
+@ 2020-05-14 21:23:38
+money -1
+@ 2020-05-14 21:27:26
+# wrong_answer 13 rouchovany
+@ 2020-05-14 21:27:32
+# wrong_answer 13 slovětice
+@ 2020-05-14 21:27:39
+# wrong_answer 13 slavětice
+@ 2020-05-14 21:27:54
+# wrong_answer 13 horní dubňany
+@ 2020-05-14 21:28:02
+# wrong_answer 13 rešice
+@ 2020-05-14 21:28:09
+# wrong_answer 13 mohelno
+@ 2020-05-14 21:28:33
+# wrong_answer 13 podhájí
+@ 2020-05-14 21:28:39
+# wrong_answer 13 knín
+@ 2020-05-14 21:28:48
+# wrong_answer 13 kočín
+@ 2020-05-14 21:28:56
+# wrong_answer 13 zvěrkovice
+@ 2020-05-14 21:29:00
+# wrong_answer 13 dukovany
+@ 2020-05-14 21:29:14
+# wrong_answer 13 temelínec
+@ 2020-05-14 21:30:01
+# wrong_answer 13 dříteň
+@ 2020-05-14 21:31:04
+state MOVE
+@ 2020-05-14 21:31:04
+# correct_answer 13 litoradlice
+@ 2020-05-14 21:31:29
+place Kostel sv. Vavřince v Jinonicích
+@ 2020-05-14 21:31:29
+state ANSWER
+@ 2020-05-14 21:31:29
+time 64
+@ 2020-05-14 21:31:29
+money -1
+@ 2020-05-14 21:45:31
+state MOVE
+@ 2020-05-14 21:45:31
+# correct_answer 9 cafe jehuda
+@ 2020-05-14 21:45:47
+place Kostel sv. Prokopa ve Stodůlkách
+@ 2020-05-14 21:45:47
+state ANSWER
+@ 2020-05-14 21:45:47
+time 38
+@ 2020-05-14 21:45:47
+money -1
+@ 2020-05-14 21:51:37
+# wrong_answer 7 17. 01. 2021
+@ 2020-05-14 21:58:54
+# wrong_answer 7 17. 01. 2021, 23. 08. 2039
+@ 2020-05-14 21:59:05
+# wrong_answer 7 17. 01. 2021, 29. 08. 2039
+@ 2020-05-14 21:59:24
+# wrong_answer 7 22. 01. 2021, 23. 08. 2039
+@ 2020-05-14 21:59:36
+state MOVE
+@ 2020-05-14 21:59:36
+# correct_answer 7 22. 01. 2021, 29. 08. 2039
+@ 2020-05-14 21:59:58
+place Kostel Církve adventistů sedmého dne
+@ 2020-05-14 21:59:58
+state ANSWER
+@ 2020-05-14 21:59:58
+time 28
+@ 2020-05-14 21:59:58
+money -2
+@ 2020-05-14 22:03:28
+# wrong_answer 12 rusko, severní irsko, velká británie
+@ 2020-05-14 22:03:42
+# wrong_answer 12 irsko, rusko, velká británie
+@ 2020-05-14 22:04:10
+# wrong_answer 12 comonwlth, sssr
+@ 2020-05-14 22:04:41
+# wrong_answer 12 commonwelth, rusko
+@ 2020-05-14 22:04:54
+# wrong_answer 12 commonwealth, rusko
+@ 2020-05-14 22:05:03
+# wrong_answer 12 commonwealth, sssr
+@ 2020-05-14 22:05:47
+# wrong_answer 12 rusko, velká británie
+@ 2020-05-14 22:08:09
+# wrong_answer 12 commonwealth, sovětský svaz
+@ 2020-05-14 22:09:08
+# wrong_answer 12 velká británie, sovětský svaz
+@ 2020-05-14 22:10:56
+# wrong_answer 12 bulharsko, commonwealth, sovětský svaz
+@ 2020-05-14 22:12:10
+# wrong_answer 12 bulharsko, commonwealth, sovětský svaz

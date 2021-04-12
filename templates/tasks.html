@@ -1,0 +1,57 @@
+<html>
+  <head>
+     <title>Pražská online hra</title>
+     <link rel="stylesheet" media="screen" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  </head>
+  <body>
+
+    <div class="container"><br>
+      <center>
+        <h2>Pražská online hra</h2>
+      </center>
+    </div>
+
+
+    <div class=container"><br>
+        <div class="row align-items-center justify-content-center">
+            <a href="/home/{{ teamsec }}">Hlavní strana</a>
+        </div>
+        <div class="row align-items-center justify-content-center">
+            <a href="/results/{{ teamsec }}">Výsledky týmů</a>
+        </div>
+
+        <div class="row align-items-center justify-content-center">
+        <h4>Úkoly</h4>
+        </div>
+        <div class="row align-items-center justify-content-center">
+        {{ msg|safe }}
+        </div>
+        <div class="row align-items-center justify-content-center">
+
+        <table class="table-condensed table-bordered">
+            <thead><tr><th>Úkol</th><th>Zadání</th><th>Odpovědi</th><th>Nápověda 1</th><th>Nápověda 2</th><th>Indicie</th>
+            </tr></thead>
+            <tbody>
+                {% for row in table %}
+                    <tr class="table-{{ row[6] }}">
+                        <td>{{ row[0] }}</td>
+                        <td>{{ row[1]|safe }}</td>
+                        <td style="word-wrap: break-word;min-width: 160px;max-width: 200px;">{{ row[2]|safe }}</td>
+                        <td style="word-wrap: break-word;min-width: 160px;max-width: 200px;">{{ row[3]|safe }}</td>
+                        <td style="word-wrap: break-word;min-width: 160px;max-width: 200px;">{{ row[4]|safe }}</td>
+                        <td>{{ row[5] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+
+        </div>
+    </div>
+
+
+  </body>
+</html>

@@ -1,0 +1,105 @@
+<html>
+  <head>
+     <title>Pražská online hra</title>
+     <link rel="stylesheet" media="screen" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  </head>
+  <body>
+
+    <div class="container"><br>
+      <center>
+        <h2>Pražská online hra</h2>
+      </center>
+    </div>
+
+
+    <div class=container"><br>
+        <div class="row align-items-center justify-content-center">
+            <a href="/home/{{ teamsec }}">Hlavní strana</a>
+        </div>
+        <div class="row align-items-center justify-content-center">
+            <a href="/results/{{ teamsec }}">Výsledky týmů</a>
+        </div>
+        <div class="row align-items-center justify-content-center">
+            <a href="/tasks/{{ teamsec }}">Úkoly</a>
+        </div>
+
+        <div class="row align-items-center justify-content-center">
+            {{ text }}
+        </div> 
+
+        <div class="row align-items-center justify-content-center">
+            <br>
+           Vaše možnosti k přesunu:
+        </div>
+        <div class="row align-items-center justify-content-center">
+        <br>
+        <table class="table-condensed table-bordered">
+            <thead><tr><th>Místo</th><th>Čas přesunu</th><th>Cena přesunu</th></tr></thead>
+            <tbody>
+                {% for opt in moving %}
+                    <tr><td>{{ opt[0] }}</td><td class="text-right">{{
+						opt[1][0] }} </td><td class="text-right">{{ opt[1][1] }} Kčs </td></tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        </div>
+
+
+
+
+    <div class=container"><br>
+    <div class="row align-items-center justify-content-center">
+    <div class="col-md-4">
+      <form  action="" method="post" role="form">
+        {{ form.csrf }}
+        <div class="form-group">
+	  <label for="answer">Kam se chcete přesunout?</label>
+      <select id="answer" name="answer">
+      {{ form.ch|safe }}
+<!--      {% for option in form.answer.choices %}
+        <option value="{{ option[0] }}">{{ option[1] }}</option>
+	    <br>
+      {% endfor %}
+      --!>
+        </select>
+	</div>
+        <br>													   
+
+        <center>
+          <button type="submit" class="btn btn-success">Odeslat</button>
+        </center>
+      </form>
+
+      <br>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+
+        {% for message in messages %}
+            {% if "Error" not in message[1]: %}
+                <div class="alert alert-info">
+                {{ message[1] }}
+                </div>
+            {% endif %}
+
+            {% if "Error" in message[1]: %}
+                <div class="alert alert-danger">
+                {{ message[1] }}
+                </div>
+            {% endif %}
+        {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+    </div>
+    <br>
+    </div>
+
+    </div><!-- container --!>
+
+
+  </body>
+</html>

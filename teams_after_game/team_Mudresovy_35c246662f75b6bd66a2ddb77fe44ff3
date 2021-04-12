@@ -1,0 +1,336 @@
+@ 2020-05-14 19:38:13
+place Kostel sv. Rodiny
+@ 2020-05-14 19:38:13
+state ANSWER
+@ 2020-05-14 19:38:13
+time 360
+@ 2020-05-14 19:38:13
+money 5
+@ 2020-05-14 19:43:48
+state MOVE
+@ 2020-05-14 19:43:48
+# correct_answer 1 Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:44:47
+place Kostel sv. Martina v Řepích
+@ 2020-05-14 19:44:47
+state ANSWER
+@ 2020-05-14 19:44:47
+time 353
+@ 2020-05-14 19:44:47
+money 5
+@ 2020-05-14 19:53:25
+# wrong_answer 3 eb4d
+@ 2020-05-14 19:54:22
+# wrong_answer 3 e13f
+@ 2020-05-14 19:56:23
+state MOVE
+@ 2020-05-14 19:56:23
+# correct_answer 3 8859
+@ 2020-05-14 19:57:47
+place Kostel Panny Marie Vítězné
+@ 2020-05-14 19:57:47
+state ANSWER
+@ 2020-05-14 19:57:47
+time 326
+@ 2020-05-14 19:57:47
+money 5
+@ 2020-05-14 20:00:24
+# wrong_answer 6 sever
+@ 2020-05-14 20:00:49
+state MOVE
+@ 2020-05-14 20:00:49
+# correct_answer 6 Sv. Jan Nepomucký, S
+@ 2020-05-14 20:01:22
+place Bazilika sv. Markéty
+@ 2020-05-14 20:01:22
+state ANSWER
+@ 2020-05-14 20:01:22
+time 282
+@ 2020-05-14 20:01:22
+money 5
+@ 2020-05-14 20:10:45
+# wrong_answer 8 13
+@ 2020-05-14 20:10:49
+# wrong_answer 8 14
+@ 2020-05-14 20:10:53
+# wrong_answer 8 15
+@ 2020-05-14 20:10:57
+# wrong_answer 8 16
+@ 2020-05-14 20:11:03
+# wrong_answer 8 17
+@ 2020-05-14 20:11:07
+# wrong_answer 8 12
+@ 2020-05-14 20:11:12
+# wrong_answer 8 11
+@ 2020-05-14 20:11:21
+# wrong_answer 8 18
+@ 2020-05-14 20:11:26
+state MOVE
+@ 2020-05-14 20:11:26
+# correct_answer 8 19
+@ 2020-05-14 20:12:07
+place Evangelický kostel ve Střešovicích
+@ 2020-05-14 20:12:07
+state ANSWER
+@ 2020-05-14 20:12:07
+time 260
+@ 2020-05-14 20:12:07
+money 5
+@ 2020-05-14 20:26:19
+state MOVE
+@ 2020-05-14 20:26:19
+# correct_answer 9 Café Jehuda
+@ 2020-05-14 20:26:47
+place Kostel sv. Václava v Dejvicích
+@ 2020-05-14 20:26:47
+state ANSWER
+@ 2020-05-14 20:26:47
+time 247
+@ 2020-05-14 20:26:47
+money 5
+@ 2020-05-14 20:30:22
+# wrong_answer 7 23.01.2021
+@ 2020-05-14 20:34:53
+# wrong_answer 7 23.01.2021, 23.08.2039
+@ 2020-05-14 20:36:24
+# wrong_answer 7 23.01.2021, 17.08.2039
+@ 2020-05-14 20:36:36
+# wrong_answer 7 23.01.2021, 16.08.2039
+@ 2020-05-14 20:36:50
+# wrong_answer 7 23.01.2021, 18.08.2039
+@ 2020-05-14 20:37:06
+# wrong_answer 7 22.01.2021, 16.08.2039
+@ 2020-05-14 20:37:15
+# wrong_answer 7 22.01.2021, 17.08.2039
+@ 2020-05-14 20:43:34
+state MOVE
+@ 2020-05-14 20:43:34
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 20:44:27
+place Kostel sv. Norberta
+@ 2020-05-14 20:44:27
+state ANSWER
+@ 2020-05-14 20:44:27
+time 235
+@ 2020-05-14 20:44:27
+money 5
+@ 2020-05-14 20:49:42
+state MOVE
+@ 2020-05-14 20:49:42
+# correct_answer 10 7
+@ 2020-05-14 20:49:55
+place Kostel Narození Páně
+@ 2020-05-14 20:49:55
+state ANSWER
+@ 2020-05-14 20:49:55
+time 218
+@ 2020-05-14 20:49:55
+money 5
+@ 2020-05-14 20:50:39
+# wrong_answer 13 Rouchovany
+@ 2020-05-14 20:50:58
+# wrong_answer 13 Slavětice
+@ 2020-05-14 20:51:03
+# wrong_answer 13 Jamolice
+@ 2020-05-14 20:51:13
+# wrong_answer 13 Mohelno
+@ 2020-05-14 20:51:18
+# wrong_answer 13 Senorady
+@ 2020-05-14 20:51:32
+# wrong_answer 13 Horní Dubňany
+@ 2020-05-14 20:52:44
+# wrong_answer 13 Rouchovany
+@ 2020-05-14 20:52:51
+# wrong_answer 13 Kordula
+@ 2020-05-14 20:53:18
+# wrong_answer 13 Slavětice
+@ 2020-05-14 20:54:02
+# wrong_answer 13 Kramolín
+@ 2020-05-14 20:55:00
+# wrong_answer 13 Heřmanice
+@ 2020-05-14 20:57:04
+# wrong_answer 13 Purkarec
+@ 2020-05-14 20:57:09
+# wrong_answer 13 Jeznice
+@ 2020-05-14 20:57:18
+# wrong_answer 13 Litoradice
+@ 2020-05-14 20:57:34
+# wrong_answer 13 Hněvkovice
+@ 2020-05-14 20:57:49
+# wrong_answer 13 Hněvkovice na levém břehu vltavy
+@ 2020-05-14 20:58:01
+# wrong_answer 13 Hněvkovice na pravém břehu vltavy
+@ 2020-05-14 20:58:39
+state MOVE
+@ 2020-05-14 20:58:39
+# correct_answer 13 Litoradlice
+@ 2020-05-14 20:59:01
+place Katedrála sv. Víta, Václava a Vojtěcha
+@ 2020-05-14 20:59:01
+state ANSWER
+@ 2020-05-14 20:59:01
+time 207
+@ 2020-05-14 20:59:01
+money 5
+@ 2020-05-14 21:08:17
+# hint 14 0
+@ 2020-05-14 21:08:17
+money 4
+@ 2020-05-14 21:13:21
+# hint 14 1
+@ 2020-05-14 21:13:21
+money 0
+@ 2020-05-14 21:13:48
+state MOVE
+@ 2020-05-14 21:13:48
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 21:14:31
+place Kostel Panny Marie Vítězné a sv. Antonína Paduánského
+@ 2020-05-14 21:14:31
+state ANSWER
+@ 2020-05-14 21:14:31
+time 197
+@ 2020-05-14 21:14:31
+money 0
+@ 2020-05-14 21:19:40
+state MOVE
+@ 2020-05-14 21:19:40
+# correct_answer 16 Haštalské náměstí
+@ 2020-05-14 21:19:52
+place Kostel sv. Jana Křtitele Na Prádle
+@ 2020-05-14 21:19:52
+state ANSWER
+@ 2020-05-14 21:19:52
+time 190
+@ 2020-05-14 21:19:52
+money 0
+@ 2020-05-14 21:37:15
+# hint 20 1
+@ 2020-05-14 21:37:15
+money -4
+@ 2020-05-14 21:37:32
+state MOVE
+@ 2020-05-14 21:37:32
+# correct_answer 20 16, 28, 40, 75, 80, 100
+@ 2020-05-14 21:37:59
+place Kostel sv. Michala
+@ 2020-05-14 21:37:59
+state ANSWER
+@ 2020-05-14 21:37:59
+time 179
+@ 2020-05-14 21:37:59
+money -4
+@ 2020-05-14 21:44:36
+# hint 15 0
+@ 2020-05-14 21:44:36
+money -5
+@ 2020-05-14 21:50:58
+# wrong_answer 15 Žiwlowa
+@ 2020-05-14 21:51:06
+# wrong_answer 15 Žiwlow
+@ 2020-05-14 21:51:13
+# wrong_answer 15 Račín
+@ 2020-05-14 21:51:42
+state MOVE
+@ 2020-05-14 21:51:42
+# correct_answer 15 Skalický
+@ 2020-05-14 21:52:02
+place Kostel sv. Vavřince pod Petřínem
+@ 2020-05-14 21:52:02
+state ANSWER
+@ 2020-05-14 21:52:02
+time 170
+@ 2020-05-14 21:52:02
+money -5
+@ 2020-05-14 21:52:40
+state MOVE
+@ 2020-05-14 21:52:40
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 21:53:47
+place Bazilika Nanebevzetí Panny Marie
+@ 2020-05-14 21:53:47
+state ANSWER
+@ 2020-05-14 21:53:47
+time 160
+@ 2020-05-14 21:53:47
+money -5
+@ 2020-05-14 21:54:20
+state MOVE
+@ 2020-05-14 21:54:20
+# correct_answer 11 Gabriel
+@ 2020-05-14 21:54:38
+place Kostel Narození Páně
+@ 2020-05-14 21:54:38
+state ANSWER
+@ 2020-05-14 21:54:38
+time 154
+@ 2020-05-14 21:54:38
+money -5
+@ 2020-05-14 21:54:55
+state MOVE
+@ 2020-05-14 21:54:55
+# correct_answer 13 Litoradlice
+@ 2020-05-14 21:55:08
+place Kostel sv. Norberta
+@ 2020-05-14 21:55:08
+state ANSWER
+@ 2020-05-14 21:55:08
+time 137
+@ 2020-05-14 21:55:08
+money -5
+@ 2020-05-14 21:55:43
+# wrong_answer 10 Haštalské náměstí
+@ 2020-05-14 21:55:50
+# wrong_answer 10 Haštalské náměstí
+@ 2020-05-14 21:56:17
+state MOVE
+@ 2020-05-14 21:56:17
+# correct_answer 10 7
+@ 2020-05-14 21:56:33
+place Kostel sv. Václava v Dejvicích
+@ 2020-05-14 21:56:33
+state ANSWER
+@ 2020-05-14 21:56:33
+time 125
+@ 2020-05-14 21:56:33
+money -5
+@ 2020-05-14 21:56:58
+state MOVE
+@ 2020-05-14 21:56:58
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 21:57:15
+place Kostel sv. Vojtěcha v Dejvicích
+@ 2020-05-14 21:57:15
+state ANSWER
+@ 2020-05-14 21:57:15
+time 109
+@ 2020-05-14 21:57:15
+money -5
+@ 2020-05-14 21:57:26
+state MOVE
+@ 2020-05-14 21:57:26
+# correct_answer 8 19
+@ 2020-05-14 21:57:34
+place Kostel sv. Matěje
+@ 2020-05-14 21:57:34
+state ANSWER
+@ 2020-05-14 21:57:34
+time 87
+@ 2020-05-14 21:57:34
+money -5
+@ 2020-05-14 21:58:20
+# wrong_answer 6 Café Jehuda
+@ 2020-05-14 21:59:05
+# wrong_answer 6 Café Jehuda
+@ 2020-05-14 21:59:35
+state MOVE
+@ 2020-05-14 21:59:35
+# correct_answer 6 Sv. Jan Nepomucký, S
+@ 2020-05-14 22:00:33
+place Kostel sv. Jana v Trní
+@ 2020-05-14 22:00:33
+state ANSWER
+@ 2020-05-14 22:00:33
+time 58
+@ 2020-05-14 22:00:33
+money -5

@@ -1,0 +1,198 @@
+@ 2020-05-14 19:34:33
+place Kostel sv. Václava v Bohnicích
+@ 2020-05-14 19:34:33
+state ANSWER
+@ 2020-05-14 19:34:33
+time 360
+@ 2020-05-14 19:34:33
+money 5
+@ 2020-05-14 19:45:30
+state MOVE
+@ 2020-05-14 19:45:30
+# correct_answer 1 Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:47:07
+place Kostel sv. Terezie od Dítěte Ježíše
+@ 2020-05-14 19:47:07
+state ANSWER
+@ 2020-05-14 19:47:07
+time 321
+@ 2020-05-14 19:47:07
+money 5
+@ 2020-05-14 19:59:01
+# hint 5 0
+@ 2020-05-14 19:59:01
+money 4
+@ 2020-05-14 20:01:23
+# wrong_answer 5 Píseň písní, meč, Pavel
+@ 2020-05-14 20:03:46
+# wrong_answer 5 Píseň Šalamounova, meč, Pavel
+@ 2020-05-14 20:05:53
+state MOVE
+@ 2020-05-14 20:05:53
+# correct_answer 5 Píseň písní, meč, Jakub
+@ 2020-05-14 20:07:31
+place Kostel u Jákobova žebříku
+@ 2020-05-14 20:07:31
+state ANSWER
+@ 2020-05-14 20:07:31
+time 309
+@ 2020-05-14 20:07:31
+money 4
+@ 2020-05-14 20:13:54
+# wrong_answer 6 sv. Jan Nepomucký, J
+@ 2020-05-14 20:15:15
+# wrong_answer 6 sv. Jan Nepomucký, JV
+@ 2020-05-14 20:15:28
+# wrong_answer 6 sv. Jan Nepomucký, JZ
+@ 2020-05-14 20:17:36
+state MOVE
+@ 2020-05-14 20:17:36
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 20:18:38
+place Kostel sv. Vojtěcha v Libni
+@ 2020-05-14 20:18:38
+state ANSWER
+@ 2020-05-14 20:18:38
+time 279
+@ 2020-05-14 20:18:38
+money 4
+@ 2020-05-14 20:35:45
+state MOVE
+@ 2020-05-14 20:35:45
+# correct_answer 9 Café Jehuda
+@ 2020-05-14 20:38:39
+place Kostel sv. Antonína Paduánského
+@ 2020-05-14 20:38:39
+state ANSWER
+@ 2020-05-14 20:38:39
+time 233
+@ 2020-05-14 20:38:39
+money 4
+@ 2020-05-14 20:40:12
+state MOVE
+@ 2020-05-14 20:40:12
+# correct_answer 11 Gabriel
+@ 2020-05-14 20:41:39
+place Kostel sv. Klimenta
+@ 2020-05-14 20:41:39
+state ANSWER
+@ 2020-05-14 20:41:39
+time 227
+@ 2020-05-14 20:41:39
+money 4
+@ 2020-05-14 20:51:42
+state MOVE
+@ 2020-05-14 20:51:42
+# correct_answer 13 Litoradlice
+@ 2020-05-14 20:52:55
+place Kostel sv. Petra na Novém Městě
+@ 2020-05-14 20:52:55
+state ANSWER
+@ 2020-05-14 20:52:55
+time 216
+@ 2020-05-14 20:52:55
+money 4
+@ 2020-05-14 20:58:08
+state MOVE
+@ 2020-05-14 20:58:08
+# correct_answer 16 Haštalské náměstí
+@ 2020-05-14 20:58:56
+place Sbor Církve bratrské
+@ 2020-05-14 20:58:56
+state ANSWER
+@ 2020-05-14 20:58:56
+time 211
+@ 2020-05-14 20:58:56
+money 4
+@ 2020-05-14 21:04:18
+# wrong_answer 15 Karel Skalický
+@ 2020-05-14 21:04:31
+state MOVE
+@ 2020-05-14 21:04:31
+# correct_answer 15 Skalický
+@ 2020-05-14 21:06:25
+place Husův sbor v Dejvicích
+@ 2020-05-14 21:06:25
+state ANSWER
+@ 2020-05-14 21:06:25
+time 203
+@ 2020-05-14 21:06:25
+money 3
+@ 2020-05-14 21:08:13
+# wrong_answer 12 Jugoslávie, Itálie
+@ 2020-05-14 21:08:30
+state MOVE
+@ 2020-05-14 21:08:30
+# correct_answer 12 Itálie, Jugoslávie
+@ 2020-05-14 21:09:16
+place Katedrála sv. Víta, Václava a Vojtěcha
+@ 2020-05-14 21:09:16
+state ANSWER
+@ 2020-05-14 21:09:16
+time 190
+@ 2020-05-14 21:09:16
+money 3
+@ 2020-05-14 21:26:23
+# hint 14 0
+@ 2020-05-14 21:26:23
+money 2
+@ 2020-05-14 21:29:47
+# wrong_answer 14 Rút, Kaifáš
+@ 2020-05-14 21:30:08
+# wrong_answer 14 Ester, Kaifáš
+@ 2020-05-14 21:30:30
+# wrong_answer 14 Ester, Mordokaj
+@ 2020-05-14 21:30:40
+state MOVE
+@ 2020-05-14 21:30:40
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 21:31:02
+place Kostel Narození Páně
+@ 2020-05-14 21:31:02
+state ANSWER
+@ 2020-05-14 21:31:02
+time 179
+@ 2020-05-14 21:31:02
+money 2
+@ 2020-05-14 21:31:43
+state MOVE
+@ 2020-05-14 21:31:43
+# correct_answer 13 Litoradlice
+@ 2020-05-14 21:32:10
+place Kostel sv. Norberta
+@ 2020-05-14 21:32:10
+state ANSWER
+@ 2020-05-14 21:32:10
+time 162
+@ 2020-05-14 21:32:10
+money 2
+@ 2020-05-14 21:38:34
+state MOVE
+@ 2020-05-14 21:38:34
+# correct_answer 10 7
+@ 2020-05-14 21:39:08
+place Kostel sv. Václava v Dejvicích
+@ 2020-05-14 21:39:08
+state ANSWER
+@ 2020-05-14 21:39:08
+time 150
+@ 2020-05-14 21:39:08
+money 2
+@ 2020-05-14 21:48:47
+# wrong_answer 7 22.1.2021, 29.8.2039
+@ 2020-05-14 21:49:35
+state MOVE
+@ 2020-05-14 21:49:35
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 21:51:49
+place Kostel sv. Vojtěcha v Dejvicích
+@ 2020-05-14 21:51:49
+state ANSWER
+@ 2020-05-14 21:51:49
+time 134
+@ 2020-05-14 21:51:49
+money 2
+@ 2020-05-14 21:55:01
+# wrong_answer 8 10
+@ 2020-05-14 21:55:06
+# wrong_answer 8 9

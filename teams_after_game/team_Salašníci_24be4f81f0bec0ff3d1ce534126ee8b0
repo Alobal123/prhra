@@ -1,0 +1,130 @@
+@ 2020-05-14 19:52:11
+place Kostel sv. Cyrila a Metoděje v Nebušicích
+@ 2020-05-14 19:52:11
+state ANSWER
+@ 2020-05-14 19:52:11
+time 360
+@ 2020-05-14 19:52:11
+money 5
+@ 2020-05-14 20:06:24
+state MOVE
+@ 2020-05-14 20:06:24
+# correct_answer 2 KAŽDÝ BY CHTĚL ECOIN
+@ 2020-05-14 20:08:26
+place Kostel sv. Jana v Trní
+@ 2020-05-14 20:08:26
+state ANSWER
+@ 2020-05-14 20:08:26
+time 325
+@ 2020-05-14 20:08:26
+money 5
+@ 2020-05-14 20:18:24
+# wrong_answer 4 Svatý Jan Pavel II.
+@ 2020-05-14 20:20:02
+state MOVE
+@ 2020-05-14 20:20:02
+# correct_answer 4 Svatá Terezie z Lisieux
+@ 2020-05-14 20:22:01
+place Kostel sv. Fabiána a Šebestiána
+@ 2020-05-14 20:22:01
+state ANSWER
+@ 2020-05-14 20:22:01
+time 277
+@ 2020-05-14 20:22:01
+money 5
+@ 2020-05-14 20:29:52
+state MOVE
+@ 2020-05-14 20:29:52
+# correct_answer 5 Píseň písní, meč, Jakub
+@ 2020-05-14 20:30:54
+place Bazilika sv. Markéty
+@ 2020-05-14 20:30:54
+state ANSWER
+@ 2020-05-14 20:30:54
+time 244
+@ 2020-05-14 20:30:54
+money 5
+@ 2020-05-14 20:37:15
+# wrong_answer 8 12
+@ 2020-05-14 20:38:36
+# hint 8 0
+@ 2020-05-14 20:38:36
+money 4
+@ 2020-05-14 20:44:47
+# wrong_answer 8 17
+@ 2020-05-14 20:49:07
+# wrong_answer 8 24
+@ 2020-05-14 20:55:35
+# wrong_answer 8 25
+@ 2020-05-14 20:55:41
+# wrong_answer 8 23
+@ 2020-05-14 20:55:57
+# wrong_answer 8 30
+@ 2020-05-14 20:56:10
+# wrong_answer 8 29
+@ 2020-05-14 20:56:14
+# wrong_answer 8 28
+@ 2020-05-14 20:56:18
+# wrong_answer 8 33
+@ 2020-05-14 20:56:53
+# hint 8 1
+@ 2020-05-14 20:56:53
+money 0
+@ 2020-05-14 20:57:05
+state MOVE
+@ 2020-05-14 20:57:05
+# correct_answer 8 19
+@ 2020-05-14 20:59:14
+place Kostel Panny Marie Vítězné
+@ 2020-05-14 20:59:14
+state ANSWER
+@ 2020-05-14 20:59:14
+time 200
+@ 2020-05-14 20:59:14
+money 0
+@ 2020-05-14 21:11:28
+# wrong_answer 6 západ
+@ 2020-05-14 21:11:48
+# wrong_answer 6 východ
+@ 2020-05-14 21:13:01
+# wrong_answer 6 sv. Václava, Z
+@ 2020-05-14 21:13:21
+# wrong_answer 6 sv. Václav, Z
+@ 2020-05-14 21:14:35
+# wrong_answer 6 sv. Jan Nepomucký, Z
+@ 2020-05-14 21:14:49
+# wrong_answer 6 sv. Jan Nepomucký, V
+@ 2020-05-14 21:15:04
+# wrong_answer 6 sv. Jan Nepomucký, SZ
+@ 2020-05-14 21:16:37
+# hint 6 0
+@ 2020-05-14 21:16:37
+money -1
+@ 2020-05-14 21:20:47
+# hint 6 1
+@ 2020-05-14 21:20:47
+money -5
+@ 2020-05-14 21:21:09
+state MOVE
+@ 2020-05-14 21:21:09
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 21:21:46
+place Kostel sv. Martina v Řepích
+@ 2020-05-14 21:21:46
+state ANSWER
+@ 2020-05-14 21:21:46
+time 173
+@ 2020-05-14 21:21:46
+money -5
+@ 2020-05-14 21:29:39
+# wrong_answer 3 0737
+@ 2020-05-14 21:37:45
+# wrong_answer 3 b02e
+@ 2020-05-14 21:38:17
+# hint 3 1
+@ 2020-05-14 21:38:17
+money -9
+@ 2020-05-14 21:38:28
+state MOVE
+@ 2020-05-14 21:38:28
+# correct_answer 3 8859

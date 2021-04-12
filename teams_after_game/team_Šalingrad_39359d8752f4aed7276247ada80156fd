@@ -1,0 +1,178 @@
+@ 2020-05-14 19:32:52
+place Kostel sv. Jana a Pavla
+@ 2020-05-14 19:32:52
+state ANSWER
+@ 2020-05-14 19:32:52
+time 360
+@ 2020-05-14 19:32:52
+money 5
+@ 2020-05-14 19:41:57
+state MOVE
+@ 2020-05-14 19:41:57
+# correct_answer 2 kazdy by chtel ecoin
+@ 2020-05-14 19:44:56
+place Kostel sv. Petra a Pavla v Řeporyjích
+@ 2020-05-14 19:44:56
+state ANSWER
+@ 2020-05-14 19:44:56
+time 354
+@ 2020-05-14 19:44:56
+money 4
+@ 2020-05-14 20:00:42
+state MOVE
+@ 2020-05-14 20:00:42
+# correct_answer 3 8859
+@ 2020-05-14 20:01:16
+place Kostel ve skanzenu Řepora
+@ 2020-05-14 20:01:16
+state ANSWER
+@ 2020-05-14 20:01:16
+time 336
+@ 2020-05-14 20:01:16
+money 4
+@ 2020-05-14 20:14:50
+state MOVE
+@ 2020-05-14 20:14:50
+# correct_answer 4 Svatá Terezie z Lisieux
+@ 2020-05-14 20:16:48
+place Kostel sv. Jakuba Staršího ve Stodůlkách
+@ 2020-05-14 20:16:48
+state ANSWER
+@ 2020-05-14 20:16:48
+time 319
+@ 2020-05-14 20:16:48
+money 4
+@ 2020-05-14 20:25:47
+state MOVE
+@ 2020-05-14 20:25:47
+# correct_answer 5 Píseň písní, meč, Jakub 
+@ 2020-05-14 20:26:25
+place Kostel sv. Prokopa ve Stodůlkách
+@ 2020-05-14 20:26:25
+state ANSWER
+@ 2020-05-14 20:26:25
+time 280
+@ 2020-05-14 20:26:25
+money 4
+@ 2020-05-14 20:33:52
+# wrong_answer 7 21.01.2021, 29.08.2039
+@ 2020-05-14 20:35:28
+# wrong_answer 7 21.01.2021, 30.10.2046
+@ 2020-05-14 20:37:37
+# wrong_answer 7 21.01.2021, 29.08.2039
+@ 2020-05-14 20:44:02
+state MOVE
+@ 2020-05-14 20:44:02
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 20:44:56
+place Kostel sv. Vavřince v Jinonicích
+@ 2020-05-14 20:44:56
+state ANSWER
+@ 2020-05-14 20:44:56
+time 254
+@ 2020-05-14 20:44:56
+money 4
+@ 2020-05-14 20:57:37
+state MOVE
+@ 2020-05-14 20:57:37
+# correct_answer 9 cafe jehuda
+@ 2020-05-14 20:58:28
+place Kostel Všech svatých v Slivenci
+@ 2020-05-14 20:58:28
+state ANSWER
+@ 2020-05-14 20:58:28
+time 243
+@ 2020-05-14 20:58:28
+money 3
+@ 2020-05-14 21:23:06
+# wrong_answer 6 sever
+@ 2020-05-14 21:23:33
+# wrong_answer 6 sv. Ludmila, JZ
+@ 2020-05-14 21:23:49
+state MOVE
+@ 2020-05-14 21:23:49
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 21:26:00
+place Kostel sv. Jana Nepomuckého ve Velké Chuchli
+@ 2020-05-14 21:26:00
+state ANSWER
+@ 2020-05-14 21:26:00
+time 204
+@ 2020-05-14 21:26:00
+money 3
+@ 2020-05-14 21:29:10
+# wrong_answer 8 122
+@ 2020-05-14 21:29:16
+# wrong_answer 8 25
+@ 2020-05-14 21:29:17
+# wrong_answer 8 26
+@ 2020-05-14 21:29:18
+# wrong_answer 8 121
+@ 2020-05-14 21:29:19
+# wrong_answer 8 27
+@ 2020-05-14 21:29:20
+# wrong_answer 8 28
+@ 2020-05-14 21:29:21
+# wrong_answer 8 29
+@ 2020-05-14 21:29:22
+# wrong_answer 8 120
+@ 2020-05-14 21:29:23
+# wrong_answer 8 30
+@ 2020-05-14 21:29:24
+# wrong_answer 8 31
+@ 2020-05-14 21:29:24
+# wrong_answer 8 119
+@ 2020-05-14 21:29:26
+# wrong_answer 8 32
+@ 2020-05-14 21:29:26
+# wrong_answer 8 118
+@ 2020-05-14 21:29:27
+# wrong_answer 8 33
+@ 2020-05-14 21:29:28
+# wrong_answer 8 117
+@ 2020-05-14 21:29:28
+# wrong_answer 8 34
+@ 2020-05-14 21:29:30
+# wrong_answer 8 35
+@ 2020-05-14 21:29:30
+# wrong_answer 8 116
+@ 2020-05-14 21:29:32
+# wrong_answer 8 36
+@ 2020-05-14 21:29:32
+# wrong_answer 8 115
+@ 2020-05-14 21:29:33
+# wrong_answer 8 37
+@ 2020-05-14 21:29:34
+# wrong_answer 8 114
+@ 2020-05-14 21:29:34
+# wrong_answer 8 38
+@ 2020-05-14 21:29:35
+# wrong_answer 8 39
+@ 2020-05-14 21:29:35
+# wrong_answer 8 113
+@ 2020-05-14 21:29:36
+# wrong_answer 8 40
+@ 2020-05-14 21:29:37
+# wrong_answer 8 112
+@ 2020-05-14 21:29:37
+# wrong_answer 8 24
+@ 2020-05-14 21:29:39
+# wrong_answer 8 23
+@ 2020-05-14 21:29:39
+# wrong_answer 8 111
+@ 2020-05-14 21:29:40
+# wrong_answer 8 22
+@ 2020-05-14 21:29:40
+# wrong_answer 8 110
+@ 2020-05-14 21:29:41
+# wrong_answer 8 21
+@ 2020-05-14 21:29:42
+# wrong_answer 8 20
+@ 2020-05-14 21:29:42
+# wrong_answer 8 109
+@ 2020-05-14 21:29:44
+# wrong_answer 8 108
+@ 2020-05-14 21:29:44
+state MOVE
+@ 2020-05-14 21:29:44
+# correct_answer 8 19

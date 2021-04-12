@@ -1,0 +1,168 @@
+@ 2020-05-14 19:31:54
+place Kostel sv. Markéty
+@ 2020-05-14 19:31:54
+state ANSWER
+@ 2020-05-14 19:31:54
+time 360
+@ 2020-05-14 19:31:54
+money 5
+@ 2020-05-14 19:37:42
+state MOVE
+@ 2020-05-14 19:37:42
+# correct_answer 2 každý by chtěl ecoin
+@ 2020-05-14 19:39:20
+place Kostel sv. Petra v Dubečku
+@ 2020-05-14 19:39:20
+state ANSWER
+@ 2020-05-14 19:39:20
+time 295
+@ 2020-05-14 19:39:20
+money 5
+@ 2020-05-14 19:46:41
+# wrong_answer 6 sv. Jan, S
+@ 2020-05-14 19:47:29
+state MOVE
+@ 2020-05-14 19:47:29
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 19:48:52
+place Evangelický kostel v Uhříněvsi
+@ 2020-05-14 19:48:52
+state ANSWER
+@ 2020-05-14 19:48:52
+time 255
+@ 2020-05-14 19:48:52
+money 5
+@ 2020-05-14 20:06:02
+# wrong_answer 5 Skutky apoštolů, kámen, Štěpán
+@ 2020-05-14 20:06:26
+# wrong_answer 5 Skutky apoštolů, kamenování, Štěpán
+@ 2020-05-14 20:06:59
+# hint 5 0
+@ 2020-05-14 20:06:59
+money 4
+@ 2020-05-14 20:08:12
+# wrong_answer 5 Píseň písní, meč, Pavel
+@ 2020-05-14 20:11:03
+state MOVE
+@ 2020-05-14 20:11:03
+# correct_answer 5 Píseň písní, meč, Jakub
+@ 2020-05-14 20:11:38
+place Kostel sv. Jakuba Staršího v Petrovicích
+@ 2020-05-14 20:11:38
+state ANSWER
+@ 2020-05-14 20:11:38
+time 211
+@ 2020-05-14 20:11:38
+money 4
+@ 2020-05-14 20:22:06
+state MOVE
+@ 2020-05-14 20:22:06
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 20:22:38
+place Kostel Stětí sv. Jana Křtitele v Hostivaři
+@ 2020-05-14 20:22:38
+state ANSWER
+@ 2020-05-14 20:22:38
+time 165
+@ 2020-05-14 20:22:38
+money 4
+@ 2020-05-14 20:44:46
+state MOVE
+@ 2020-05-14 20:44:46
+# correct_answer 9 Café Jehuda
+@ 2020-05-14 20:46:28
+place Sborový dům Jana Milíče z Kroměříže
+@ 2020-05-14 20:46:28
+state ANSWER
+@ 2020-05-14 20:46:28
+time 125
+@ 2020-05-14 20:46:28
+money 4
+@ 2020-05-14 20:49:50
+state MOVE
+@ 2020-05-14 20:49:50
+# correct_answer 10 7
+@ 2020-05-14 20:51:22
+place Kostel sv. Anežky České
+@ 2020-05-14 20:51:22
+state ANSWER
+@ 2020-05-14 20:51:22
+time 97
+@ 2020-05-14 20:51:22
+money 4
+@ 2020-05-14 20:52:55
+state MOVE
+@ 2020-05-14 20:52:55
+# correct_answer 11 Gabriel
+@ 2020-05-14 20:53:27
+place Kostel Narození Panny Marie v Záběhlicích
+@ 2020-05-14 20:53:27
+state ANSWER
+@ 2020-05-14 20:53:27
+time 78
+@ 2020-05-14 20:53:27
+money 4
+@ 2020-05-14 20:57:39
+# wrong_answer 12 Francie, Itálie, Jugoslávie, USA
+@ 2020-05-14 20:57:51
+# wrong_answer 12 Francie, Itálie, Jugoslávie, Polsko, USA
+@ 2020-05-14 20:58:47
+# wrong_answer 12 Amerika, Francie, Itálie, Jugoslávie
+@ 2020-05-14 20:59:24
+# wrong_answer 12 Francie, Itálie, Jugoslávie, Spojené státy Americké
+@ 2020-05-14 21:02:41
+# wrong_answer 12 Francie, Itálie, Jugoslávie, Německo, USA
+@ 2020-05-14 21:06:51
+# wrong_answer 12 Francie, Itálie, Jugoslávie, Německo, Slovensko, USA
+@ 2020-05-14 21:07:07
+# wrong_answer 12 Amerika, Francie, Itálie, Jugoslávie, Německo, Slovensko
+@ 2020-05-14 21:07:19
+# wrong_answer 12 Amerika, Francie, Itálie, Jugoslávie, Německo
+@ 2020-05-14 21:07:41
+# wrong_answer 12 Francie, Itálie, Jugoslávie, Německo, USA
+@ 2020-05-14 21:07:56
+# hint 12 1
+@ 2020-05-14 21:07:56
+money 0
+@ 2020-05-14 21:08:10
+state MOVE
+@ 2020-05-14 21:08:10
+# correct_answer 12 Itálie, Jugoslávie
+@ 2020-05-14 21:09:29
+place Kostel Narození Panny Marie v Michli
+@ 2020-05-14 21:09:29
+state ANSWER
+@ 2020-05-14 21:09:29
+time 36
+@ 2020-05-14 21:09:29
+money 4
+@ 2020-05-14 21:25:24
+# wrong_answer 14 Mordokaj, varhany
+@ 2020-05-14 21:25:52
+state MOVE
+@ 2020-05-14 21:25:52
+# correct_answer 14 ester, varhany
+@ 2020-05-14 21:27:01
+place Kostel sv. Václava v Nuslích
+@ 2020-05-14 21:27:01
+state ANSWER
+@ 2020-05-14 21:27:01
+time 11
+@ 2020-05-14 21:27:01
+money 4
+@ 2020-05-14 21:28:38
+# hint 16 1
+@ 2020-05-14 21:28:38
+money 0
+@ 2020-05-14 21:28:48
+state MOVE
+@ 2020-05-14 21:28:48
+# correct_answer 16 Haštalské náměstí
+@ 2020-05-14 21:34:15
+place Evangelický kostel v Nuslích
+@ 2020-05-14 21:34:15
+state ANSWER
+@ 2020-05-14 21:34:15
+time 2
+@ 2020-05-14 21:34:15
+money 0

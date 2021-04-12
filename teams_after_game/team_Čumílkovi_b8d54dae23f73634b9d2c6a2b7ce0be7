@@ -1,0 +1,276 @@
+@ 2020-05-14 19:32:54
+place Kostel sv. Cyrila a Metoděje v Nebušicích
+@ 2020-05-14 19:32:54
+state ANSWER
+@ 2020-05-14 19:32:54
+time 360
+@ 2020-05-14 19:32:54
+money 5
+@ 2020-05-14 19:43:55
+# wrong_answer 2 každý by chtěl
+@ 2020-05-14 19:44:14
+# wrong_answer 2 kazdy by chtel
+@ 2020-05-14 19:46:53
+# wrong_answer 2 každý by chtěl coin
+@ 2020-05-14 19:46:59
+# wrong_answer 2 kazdy by chtel coin
+@ 2020-05-14 19:47:18
+state MOVE
+@ 2020-05-14 19:47:18
+# correct_answer 2 každý by chtěl ecoin
+@ 2020-05-14 19:47:37
+place Kostel sv. Jana v Trní
+@ 2020-05-14 19:47:37
+state ANSWER
+@ 2020-05-14 19:47:37
+time 325
+@ 2020-05-14 19:47:37
+money 5
+@ 2020-05-14 19:57:56
+state MOVE
+@ 2020-05-14 19:57:56
+# correct_answer 4 Svatá Terezie z Lisieux
+@ 2020-05-14 19:58:02
+place Kostel sv. Matěje
+@ 2020-05-14 19:58:02
+state ANSWER
+@ 2020-05-14 19:58:02
+time 296
+@ 2020-05-14 19:58:02
+money 5
+@ 2020-05-14 20:02:43
+# hint 6 0
+@ 2020-05-14 20:02:43
+money 4
+@ 2020-05-14 20:05:42
+state MOVE
+@ 2020-05-14 20:05:42
+# correct_answer 6 sv. Jan Nepomucký, S
+@ 2020-05-14 20:05:49
+place Kostel sv. Vojtěcha v Dejvicích
+@ 2020-05-14 20:05:49
+state ANSWER
+@ 2020-05-14 20:05:49
+time 274
+@ 2020-05-14 20:05:49
+money 4
+@ 2020-05-14 20:10:49
+state MOVE
+@ 2020-05-14 20:10:49
+# correct_answer 8 19
+@ 2020-05-14 20:10:57
+place Husův sbor v Dejvicích
+@ 2020-05-14 20:10:57
+state ANSWER
+@ 2020-05-14 20:10:57
+time 259
+@ 2020-05-14 20:10:57
+money 4
+@ 2020-05-14 20:17:30
+# hint 12 0
+@ 2020-05-14 20:17:30
+money 3
+@ 2020-05-14 20:18:46
+state MOVE
+@ 2020-05-14 20:18:46
+# correct_answer 12 Itálie, Jugoslávie
+@ 2020-05-14 20:19:15
+place Kostel sv. Vojtěcha v Dejvicích
+@ 2020-05-14 20:19:15
+state ANSWER
+@ 2020-05-14 20:19:15
+time 244
+@ 2020-05-14 20:19:15
+money 3
+@ 2020-05-14 20:19:22
+state MOVE
+@ 2020-05-14 20:19:22
+# correct_answer 8 19
+@ 2020-05-14 20:19:25
+place Kostel sv. Václava v Dejvicích
+@ 2020-05-14 20:19:25
+state ANSWER
+@ 2020-05-14 20:19:25
+time 228
+@ 2020-05-14 20:19:25
+money 3
+@ 2020-05-14 20:26:01
+# wrong_answer 7 24.01.2021, 05.09.2039
+@ 2020-05-14 20:26:31
+# wrong_answer 7 23.01.2021, 05.09.2039
+@ 2020-05-14 20:27:31
+# wrong_answer 7 24.01.2021, 06.09.2039
+@ 2020-05-14 20:27:37
+# wrong_answer 7 23.01.2021, 06.09.2039
+@ 2020-05-14 20:31:20
+# wrong_answer 7 23.01.2021, 04.09.2039
+@ 2020-05-14 20:31:29
+# wrong_answer 7 24.01.2021, 04.09.2039
+@ 2020-05-14 20:33:31
+# wrong_answer 7 24.10.2020, 04.09.2039
+@ 2020-05-14 20:33:50
+# wrong_answer 7 22.01.2021, 04.09.2039
+@ 2020-05-14 20:33:56
+# wrong_answer 7 22.01.2021, 05.09.2039
+@ 2020-05-14 20:34:02
+# wrong_answer 7 22.01.2021, 06.09.2039
+@ 2020-05-14 20:39:18
+# wrong_answer 7 21.01.2021, 30.08.2039
+@ 2020-05-14 20:39:27
+# wrong_answer 7 21.01.2021, 29.08.2039
+@ 2020-05-14 20:39:38
+# wrong_answer 7 21.01.2021, 05.09.2039
+@ 2020-05-14 20:39:44
+# wrong_answer 7 21.01.2021, 04.09.2039
+@ 2020-05-14 20:39:53
+# wrong_answer 7 21.01.2021, 06.09.2039
+@ 2020-05-14 20:40:12
+# hint 7 0
+@ 2020-05-14 20:40:12
+money 2
+@ 2020-05-14 20:45:50
+# wrong_answer 7 22.01.2021, 30.08.2039
+@ 2020-05-14 20:47:02
+state MOVE
+@ 2020-05-14 20:47:02
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 20:47:12
+place Evangelický kostel ve Střešovicích
+@ 2020-05-14 20:47:12
+state ANSWER
+@ 2020-05-14 20:47:12
+time 215
+@ 2020-05-14 20:47:12
+money 2
+@ 2020-05-14 20:55:28
+state MOVE
+@ 2020-05-14 20:55:28
+# correct_answer 9 Café Jehuda
+@ 2020-05-14 20:55:39
+place Kostel sv. Norberta
+@ 2020-05-14 20:55:39
+state ANSWER
+@ 2020-05-14 20:55:39
+time 210
+@ 2020-05-14 20:55:39
+money 2
+@ 2020-05-14 20:57:11
+state MOVE
+@ 2020-05-14 20:57:11
+# correct_answer 10 7
+@ 2020-05-14 20:57:19
+place Kostel Narození Páně
+@ 2020-05-14 20:57:19
+state ANSWER
+@ 2020-05-14 20:57:19
+time 193
+@ 2020-05-14 20:57:19
+money 2
+@ 2020-05-14 21:00:15
+# wrong_answer 13 Malá Strana
+@ 2020-05-14 21:00:18
+# wrong_answer 13 Malá strana
+@ 2020-05-14 21:02:00
+# wrong_answer 13 Neznašov
+@ 2020-05-14 21:04:41
+state MOVE
+@ 2020-05-14 21:04:41
+# correct_answer 13 Litoradlice
+@ 2020-05-14 21:04:50
+place Bazilika Nanebevzetí Panny Marie
+@ 2020-05-14 21:04:50
+state ANSWER
+@ 2020-05-14 21:04:50
+time 187
+@ 2020-05-14 21:04:50
+money 2
+@ 2020-05-14 21:06:10
+state MOVE
+@ 2020-05-14 21:06:10
+# correct_answer 11 Gabriel
+@ 2020-05-14 21:06:17
+place Kostel sv. Vavřince pod Petřínem
+@ 2020-05-14 21:06:17
+state ANSWER
+@ 2020-05-14 21:06:17
+time 177
+@ 2020-05-14 21:06:17
+money 2
+@ 2020-05-14 21:09:28
+# wrong_answer 14 Jakub, varhany
+@ 2020-05-14 21:09:59
+state MOVE
+@ 2020-05-14 21:09:59
+# correct_answer 14 Ester, varhany 
+@ 2020-05-14 21:10:08
+place Kostel Panny Marie Vítězné a sv. Antonína Paduánského
+@ 2020-05-14 21:10:08
+state ANSWER
+@ 2020-05-14 21:10:08
+time 167
+@ 2020-05-14 21:10:08
+money 2
+@ 2020-05-14 21:12:07
+# hint 16 0
+@ 2020-05-14 21:12:07
+money 1
+@ 2020-05-14 21:15:19
+state MOVE
+@ 2020-05-14 21:15:19
+# correct_answer 16 Haštalské náměstí
+@ 2020-05-14 21:15:24
+place Kostel Nejsvětějšího Salvátora
+@ 2020-05-14 21:15:24
+state ANSWER
+@ 2020-05-14 21:15:24
+time 153
+@ 2020-05-14 21:15:24
+money 1
+@ 2020-05-14 21:20:34
+# hint 18 1
+@ 2020-05-14 21:20:34
+money -3
+@ 2020-05-14 21:20:42
+state MOVE
+@ 2020-05-14 21:20:42
+# correct_answer 18 31
+@ 2020-05-14 21:20:44
+place Kostel Matky Boží před Týnem
+@ 2020-05-14 21:20:44
+state ANSWER
+@ 2020-05-14 21:20:44
+time 144
+@ 2020-05-14 21:20:44
+money -3
+@ 2020-05-14 21:24:51
+# wrong_answer 17 pomáhám stavět katedrálu
+@ 2020-05-14 21:25:33
+state MOVE
+@ 2020-05-14 21:25:33
+# correct_answer 17 pomáhám stavět kotedrálu
+@ 2020-05-14 21:25:41
+place Kostel sv. Martina ve zdi
+@ 2020-05-14 21:25:41
+state ANSWER
+@ 2020-05-14 21:25:41
+time 135
+@ 2020-05-14 21:25:41
+money -3
+@ 2020-05-14 21:31:06
+# wrong_answer 19 s
+@ 2020-05-14 21:32:54
+# wrong_answer 19 Beran, čársky, gojdič, hlouch, matocha, necsej, onderek, pícha, pobožný, skoupý, škrábik, trochta, vojtaššák
+@ 2020-05-14 21:34:30
+# wrong_answer 19 Beran, Čársky, Gojdič, Hlouch, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák
+@ 2020-05-14 21:56:26
+state MOVE
+@ 2020-05-14 21:56:26
+# correct_answer 19 Beran, Čársky, Eltschkner, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Onderek, Pícha, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-14 21:56:49
+place Kostel Panny Marie Sněžné
+@ 2020-05-14 21:56:49
+state ANSWER
+@ 2020-05-14 21:56:49
+time 131
+@ 2020-05-14 21:56:49
+money -3

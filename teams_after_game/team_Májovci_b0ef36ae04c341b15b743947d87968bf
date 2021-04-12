@@ -1,0 +1,146 @@
+@ 2020-05-14 19:40:33
+place Husův sbor na Zbraslavi
+@ 2020-05-14 19:40:33
+state ANSWER
+@ 2020-05-14 19:40:33
+time 360
+@ 2020-05-14 19:40:33
+money 5
+@ 2020-05-14 19:49:15
+state MOVE
+@ 2020-05-14 19:49:15
+# correct_answer 2 KAŽDÝ BY CHTĚL ECOIN
+@ 2020-05-14 19:49:27
+place Kostel sv. Havla
+@ 2020-05-14 19:49:27
+state ANSWER
+@ 2020-05-14 19:49:27
+time 351
+@ 2020-05-14 19:49:27
+money 5
+@ 2020-05-14 20:19:18
+# wrong_answer 3 4baa
+@ 2020-05-14 20:22:09
+# wrong_answer 3 e13f
+@ 2020-05-14 20:22:21
+# wrong_answer 3 e13f
+@ 2020-05-14 20:24:31
+state MOVE
+@ 2020-05-14 20:24:31
+# correct_answer 3 8859
+@ 2020-05-14 20:25:32
+place Kostel sv. Jakuba Staršího na Zbraslavi
+@ 2020-05-14 20:25:32
+state ANSWER
+@ 2020-05-14 20:25:32
+time 342
+@ 2020-05-14 20:25:32
+money 5
+@ 2020-05-14 20:37:20
+state MOVE
+@ 2020-05-14 20:37:20
+# correct_answer 4 Svatá Terezie z Lisieux
+@ 2020-05-14 20:37:56
+place Kostel sv. Havla
+@ 2020-05-14 20:37:56
+state ANSWER
+@ 2020-05-14 20:37:56
+time 333
+@ 2020-05-14 20:37:56
+money 5
+@ 2020-05-14 20:43:15
+state MOVE
+@ 2020-05-14 20:43:15
+# correct_answer 3 8859 
+@ 2020-05-14 20:43:42
+place Kostel sv. Petra a Pavla v Radotíně
+@ 2020-05-14 20:43:42
+state ANSWER
+@ 2020-05-14 20:43:42
+time 302
+@ 2020-05-14 20:43:42
+money 5
+@ 2020-05-14 20:48:19
+# wrong_answer 1 kostel sv. Antonína Baduánského
+@ 2020-05-14 20:48:57
+# wrong_answer 1 Kostel svatého Antonína Paduánského
+@ 2020-05-14 20:49:40
+# wrong_answer 1 kostel sv. Antonína z Padovy 
+@ 2020-05-14 20:50:13
+# wrong_answer 1 Kostel sv. Antonína
+@ 2020-05-14 20:50:35
+state MOVE
+@ 2020-05-14 20:50:35
+# correct_answer 1 Kostel sv. Antonína Paduánského 
+@ 2020-05-14 20:51:24
+place Evangelický kostel v Modřanech
+@ 2020-05-14 20:51:24
+state ANSWER
+@ 2020-05-14 20:51:24
+time 289
+@ 2020-05-14 20:51:24
+money 4
+@ 2020-05-14 21:00:16
+# hint 5 0
+@ 2020-05-14 21:00:16
+money 3
+@ 2020-05-14 21:05:00
+state MOVE
+@ 2020-05-14 21:05:00
+# correct_answer 5 Píseň písní, meč, Jakub
+@ 2020-05-14 21:06:52
+place Kostel sv. Jana Nepomuckého ve Velké Chuchli
+@ 2020-05-14 21:06:52
+state ANSWER
+@ 2020-05-14 21:06:52
+time 248
+@ 2020-05-14 21:06:52
+money 3
+@ 2020-05-14 21:14:46
+# wrong_answer 8 7
+@ 2020-05-14 21:15:21
+# wrong_answer 8 9
+@ 2020-05-14 21:15:26
+# wrong_answer 8 10
+@ 2020-05-14 21:18:40
+# wrong_answer 8 11
+@ 2020-05-14 21:18:46
+# wrong_answer 8 12
+@ 2020-05-14 21:18:49
+# wrong_answer 8 13
+@ 2020-05-14 21:18:52
+# wrong_answer 8 20
+@ 2020-05-14 21:18:55
+state MOVE
+@ 2020-05-14 21:18:55
+# correct_answer 8 19
+@ 2020-05-14 21:19:37
+place Kostel Panny Marie Královny míru
+@ 2020-05-14 21:19:37
+state ANSWER
+@ 2020-05-14 21:19:37
+time 236
+@ 2020-05-14 21:19:37
+money 2
+@ 2020-05-14 21:39:38
+# hint 10 0
+@ 2020-05-14 21:39:38
+money 1
+@ 2020-05-14 21:57:36
+# wrong_answer 10 Kolik je tři a čtyři
+@ 2020-05-14 21:57:42
+# wrong_answer 10 Kolik je tři a čtyři.
+@ 2020-05-14 21:57:54
+# wrong_answer 10 Sedm
+@ 2020-05-14 21:58:01
+state MOVE
+@ 2020-05-14 21:58:01
+# correct_answer 10 7
+@ 2020-05-14 21:58:12
+place Kostel sv. Františka z Assisi v Krči
+@ 2020-05-14 21:58:12
+state ANSWER
+@ 2020-05-14 21:58:12
+time 196
+@ 2020-05-14 21:58:12
+money 1

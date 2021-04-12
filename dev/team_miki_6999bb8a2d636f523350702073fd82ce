@@ -1,0 +1,44 @@
+@ 2020-05-06 21:26:33
+place Kostel Církve bratrské v Horních Počernicích
+@ 2020-05-06 21:26:33
+state ANSWER
+@ 2020-05-06 21:26:33
+time 360
+@ 2020-05-06 21:26:33
+money 5
+@ 2020-05-06 21:26:43
+# hint 1 1
+@ 2020-05-06 21:26:43
+money -5
+@ 2020-05-06 21:27:48
+# hint 1 0
+@ 2020-05-06 21:27:48
+money -6
+@ 2020-05-06 21:28:06
+state MOVE
+@ 2020-05-06 21:28:06
+# correct_answer 1 bez motorky není život
+@ 2020-05-06 21:28:10
+place Kostel Povýšení sv. Kříže
+@ 2020-05-06 21:28:10
+state ANSWER
+@ 2020-05-06 21:28:10
+time 346
+@ 2020-05-06 21:28:10
+money -7
+@ 2020-05-06 21:28:18
+# hint 2 1
+@ 2020-05-06 21:28:18
+money -11
+@ 2020-05-06 21:32:08
+state MOVE
+@ 2020-05-06 21:32:08
+# correct_answer 2 Svatá Terezie z Lisieux
+@ 2020-05-06 21:37:56
+place Kostel sv. Alžběty
+@ 2020-05-06 21:37:56
+state ANSWER
+@ 2020-05-06 21:37:56
+time 302
+@ 2020-05-06 21:37:56
+money -11

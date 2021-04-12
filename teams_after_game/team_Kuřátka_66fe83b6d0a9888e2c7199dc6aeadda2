@@ -1,0 +1,236 @@
+@ 2020-05-14 19:31:38
+place Kostel Církve bratrské v Horních Počernicích
+@ 2020-05-14 19:31:38
+state ANSWER
+@ 2020-05-14 19:31:38
+time 360
+@ 2020-05-14 19:31:38
+money 5
+@ 2020-05-14 19:34:25
+# wrong_answer 1 Kostel sv. Antonína
+@ 2020-05-14 19:35:36
+# wrong_answer 1 Kostel sv. Antonína z Padovy
+@ 2020-05-14 19:36:05
+state MOVE
+@ 2020-05-14 19:36:05
+# correct_answer 1 Kostel sv. Antonína Paduánského
+@ 2020-05-14 19:37:16
+place Evangelický kostel v Horních Počernicích
+@ 2020-05-14 19:37:16
+state ANSWER
+@ 2020-05-14 19:37:16
+time 346
+@ 2020-05-14 19:37:16
+money 5
+@ 2020-05-14 19:52:58
+# wrong_answer 3 82d0
+@ 2020-05-14 19:53:30
+# wrong_answer 3 82d0
+@ 2020-05-14 19:55:38
+# wrong_answer 3 0015
+@ 2020-05-14 19:59:53
+# hint 3 0
+@ 2020-05-14 19:59:53
+money 4
+@ 2020-05-14 20:03:05
+# wrong_answer 3 0015
+@ 2020-05-14 20:07:23
+# wrong_answer 3 ffaf
+@ 2020-05-14 20:07:53
+# hint 3 1
+@ 2020-05-14 20:07:53
+money 0
+@ 2020-05-14 20:08:17
+state MOVE
+@ 2020-05-14 20:08:17
+# correct_answer 3 8859
+@ 2020-05-14 20:08:40
+place Kostel sv. Ludmily v Horních Počernicích
+@ 2020-05-14 20:08:40
+state ANSWER
+@ 2020-05-14 20:08:40
+time 322
+@ 2020-05-14 20:08:40
+money 0
+@ 2020-05-14 20:18:51
+# hint 5 0
+@ 2020-05-14 20:18:51
+money -1
+@ 2020-05-14 20:21:05
+state MOVE
+@ 2020-05-14 20:21:05
+# correct_answer 5 Píseň písní, meč, Jakub
+@ 2020-05-14 20:21:54
+place Kostel sv. Bartoloměje
+@ 2020-05-14 20:21:54
+state ANSWER
+@ 2020-05-14 20:21:54
+time 260
+@ 2020-05-14 20:21:54
+money -1
+@ 2020-05-14 20:30:40
+state MOVE
+@ 2020-05-14 20:30:40
+# correct_answer 7 22.01.2021, 29.08.2039
+@ 2020-05-14 20:31:08
+place Kostel sv. Jiří
+@ 2020-05-14 20:31:08
+state ANSWER
+@ 2020-05-14 20:31:08
+time 241
+@ 2020-05-14 20:31:08
+money -1
+@ 2020-05-14 20:36:41
+# wrong_answer 8 16
+@ 2020-05-14 20:39:49
+# wrong_answer 8 14
+@ 2020-05-14 20:40:16
+# wrong_answer 8 15
+@ 2020-05-14 20:40:28
+# wrong_answer 8 13
+@ 2020-05-14 20:40:40
+# wrong_answer 8 17
+@ 2020-05-14 20:40:50
+# wrong_answer 8 18
+@ 2020-05-14 20:44:15
+state MOVE
+@ 2020-05-14 20:44:15
+# correct_answer 8 19
+@ 2020-05-14 20:46:07
+place Svatyně Krista Krále
+@ 2020-05-14 20:46:07
+state ANSWER
+@ 2020-05-14 20:46:07
+time 205
+@ 2020-05-14 20:46:07
+money -1
+@ 2020-05-14 20:50:55
+state MOVE
+@ 2020-05-14 20:50:55
+# correct_answer 10 7
+@ 2020-05-14 20:57:45
+place Evangelický kostel na Žižkově
+@ 2020-05-14 20:57:45
+state ANSWER
+@ 2020-05-14 20:57:45
+time 170
+@ 2020-05-14 20:57:45
+money -1
+@ 2020-05-14 21:00:21
+state MOVE
+@ 2020-05-14 21:00:21
+# correct_answer 11 Gabriel
+@ 2020-05-14 21:01:09
+place Kostel sv. Vojtěcha na Žižkově
+@ 2020-05-14 21:01:09
+state ANSWER
+@ 2020-05-14 21:01:09
+time 161
+@ 2020-05-14 21:01:09
+money -1
+@ 2020-05-14 21:06:42
+# wrong_answer 12 britské společenství národů, SSSR, 
+@ 2020-05-14 21:08:45
+# wrong_answer 12 britské společenství národů, SSSR
+@ 2020-05-14 21:09:04
+# wrong_answer 12 britské společenství národů, Sovětský svaz
+@ 2020-05-14 21:09:27
+# wrong_answer 12 velká británie, rusko
+@ 2020-05-14 21:09:36
+# wrong_answer 12 Commonwealth, SSSR
+@ 2020-05-14 21:10:27
+# wrong_answer 12 Sovětský svaz, Spojené království Velké Británie
+@ 2020-05-14 21:10:59
+# wrong_answer 12 Rusko, Velká Británie
+@ 2020-05-14 21:11:16
+# wrong_answer 12 SSSR, Velká Británie
+@ 2020-05-14 21:13:05
+# wrong_answer 12 Commonwealth, Sovětský svaz
+@ 2020-05-14 21:13:56
+# wrong_answer 12 Commonwealth, Německo, SSSR
+@ 2020-05-14 21:14:05
+# hint 12 0
+@ 2020-05-14 21:14:05
+money -2
+@ 2020-05-14 21:15:30
+state MOVE
+@ 2020-05-14 21:15:30
+# correct_answer 12 Itálie, Jugoslávie
+@ 2020-05-14 21:17:12
+place Pravoslavný chrám Zesnutí sv. Bohorodice
+@ 2020-05-14 21:17:12
+state ANSWER
+@ 2020-05-14 21:17:12
+time 134
+@ 2020-05-14 21:17:12
+money -2
+@ 2020-05-14 21:28:03
+# wrong_answer 14 Abakuk, varhany
+@ 2020-05-14 21:28:58
+# hint 14 0
+@ 2020-05-14 21:28:58
+money -3
+@ 2020-05-14 21:30:00
+# wrong_answer 14 Kazatel ,varhany
+@ 2020-05-14 21:30:34
+# wrong_answer 14 Pláč ,varhany
+@ 2020-05-14 21:32:12
+# wrong_answer 14 Kazatel ,varhany
+@ 2020-05-14 21:34:42
+# wrong_answer 14 Numeri, varhany
+@ 2020-05-14 21:34:54
+# wrong_answer 14 Deuteronomium, varhany
+@ 2020-05-14 21:35:54
+# hint 14 1
+@ 2020-05-14 21:35:54
+money -7
+@ 2020-05-14 21:36:11
+state MOVE
+@ 2020-05-14 21:36:11
+# correct_answer 14 Ester, varhany
+@ 2020-05-14 21:36:40
+place Kostel sv. Rocha
+@ 2020-05-14 21:36:40
+state ANSWER
+@ 2020-05-14 21:36:40
+time 116
+@ 2020-05-14 21:36:40
+money -7
+@ 2020-05-14 21:40:07
+# wrong_answer 16 Staroměstské náměstí
+@ 2020-05-14 21:43:43
+state MOVE
+@ 2020-05-14 21:43:43
+# correct_answer 16 Haštalské náměstí
+@ 2020-05-14 21:44:06
+place Kostel Nejsvětějšího Srdce Páně
+@ 2020-05-14 21:44:06
+state ANSWER
+@ 2020-05-14 21:44:06
+time 102
+@ 2020-05-14 21:44:06
+money -7
+@ 2020-05-14 21:54:03
+# wrong_answer 19 Beran, Čárský, Gojdič, Hlouch, Matocha, Néscey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák
+@ 2020-05-15 00:33:07
+# wrong_answer 19 Beran, Eltschkner, Čárský, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák
+@ 2020-05-15 00:34:20
+# wrong_answer 19 Beran, Čárský, Eltschkner, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák
+@ 2020-05-15 00:46:48
+# wrong_answer 19 Beran, Eltschkner, Čárský, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-15 00:47:46
+# wrong_answer 19 Beran, Čárský, Eltschkner, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-15 00:48:37
+# wrong_answer 19 Beran, Čárský, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-15 01:37:21
+# wrong_answer 19 Beran, Čárský, Gojdič, Hlouch, Lazík, Matocha, Nathan, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-15 16:23:01
+# wrong_answer 19 Beran, Čárský, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-15 16:58:43
+# wrong_answer 19 Beran, Čárský, Gojdič, Hlouch, Hopko, Lazík, Matocha, Nécsey, Pícha, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-15 17:17:05
+# wrong_answer 19 Beran, Buzarka, Čárský, Gojdič, Hlouch, Hopko, Matocha, Nécsey, Onderek, Pícha, Pobožný, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-15 17:22:07
+# wrong_answer 19 Beran, Buzalka, Čárský, Gojdič, Hlouch, Hopko, Matocha, Nathan, Nécsey, Onderek, Pícha, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
+@ 2020-05-15 17:24:14
+# wrong_answer 19 Beran, Buzalka, Eltschkner, Čárský, Gojdič, Hlouch, Hopko, Matocha, Nathan, Nécsey, Onderek, Pícha, Skoupý, Škrábik, Trochta, Vojtaššák, Zela
