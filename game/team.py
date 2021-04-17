@@ -1,19 +1,19 @@
 import os
-from typing import Dict
+from typing import Dict, List
 
-from game.place import Place
+from game.task import Task
 from utils import get_time
 
 
 class Team:
     STARTING_VALUES = {
         "state": "MOVE",
-        "place": "start",
-        "time": "360",
-        "money": "5",
+        "task" : -1
     }
 
-    def __init__(self, secpassw: str, name: str, places):
+    NULL_TASK = Task(-1, {'link': 'nic', 'clue': "", 'hints': [], 'solution': ""})
+
+    def __init__(self, secpassw: str, name: str, tasks: List[Task]):
         self.secpassw = secpassw
         self.name = name
 
@@ -24,11 +24,9 @@ class Team:
         self.filename = "team_%s_%s" % (self.name.replace(" ", "-"), secpassw)
 
         starting_values = self.load() if os.path.isfile(self.filename) else Team.STARTING_VALUES
-
+        print(starting_values)
         self.state = starting_values["state"]  # "MOVE" # or "ANSWER"
-        self.time = int(starting_values["time"])
-        self.place = places[starting_values["place"]]
-        self.money = int(starting_values["money"])
+        self.task = tasks[int(starting_values["task"])]
 
     def parse_answer(self, line):
         _, corr_wrong, task, *answ = line.split()
@@ -65,65 +63,46 @@ class Team:
         return starting_values
 
     def statustext(self):
-        text = "Jste tým %s. Nacházíte se na místě %s. Máte %s času a %d Kčs. "
-        text = text % (self.name, self.place, self.time, self.money)
+        text = f"Vítej týme {self.name}."
 
         if self.state == "ANSWER":
             text += "Právě máte plnit&nbsp;"
-            text += ' <a href="%s" target=_blank>úkol na tomto odkazu.</a>' % self.place.task.link
+            text += ' <a href="%s" target=_blank>úkol na tomto odkazu.</a>' % self.task.link
         else:
-            text += "Právě se máte přesouvat."
+            text += " Vyberte si nový úkol."
         return text
 
-    def moving_options(self):
-        return self.place.moving_options()
-
     def get_points(self):
-        return 4 * len(self.solved_tasks) + min(0, self.money) + min(0, self.time // 15)
+        return 4 * len(self.solved_tasks)
 
     def get_results(self):
         """ row for the results table """
-        return [self.name, self.time, self.money, ", ".join(map(str, sorted(self.solved_tasks))), self.get_points()]
+        return [self.name, ", ".join(map(str, sorted(self.solved_tasks))), self.get_points()]
 
     def check_answer(self, answer):
         if self.state != "ANSWER":
             raise Exception("invalid state")
-        res, msg = self.place.check_answer(answer)
+        res, msg = self.task.check_answer(answer)
         if res:
             s = "# correct_answer"
             self.set_state("MOVE")
         else:
             s = "# wrong_answer"
-        s += " %d %s" % (self.place.task.index, answer)
+        s += " %d %s" % (self.task.id, answer)
         self.save(s)
         return res, msg
 
-    def check_move(self, newplace: Place):
-        if self.state != "MOVE":
-            raise Exception("can't  move in answer state")
-        res, msg, (d, p) = self.place.check_move(newplace)
-        if res:
-            self.set_place(newplace)
-            self.set_state("ANSWER")
-            self.set_time(self.time - d)
-            self.set_money(self.money - p)
-        return res, msg
+    def set_task(self, task: Task):
+        self.task = task.id
+        self.set_state("ANSWER")
+        self.save(f"task {task.id}")
 
     def set_state(self, new):
         self.state = new
         self.save("state %s" % new)
 
-    def set_place(self, new_place: Place):
-        self.place = new_place  # places[new]
-        self.save("place %s" % new_place.name)
-
-    def set_time(self, new):
-        self.time = new
-        self.save("time %s" % new)
-
-    def set_money(self, new):
-        self.money = new
-        self.save("money %s" % new)
+    def get_solved_tasks(self):
+        return self.solved_tasks
 
     def task_table(self, tasks: Dict):
         def answ(i):
@@ -153,7 +132,7 @@ class Team:
         def t(i):
             # číslo úkolu, link, [("odpověď",False), ("správně",True)], 
             # "náp. 1", "náp. 2", "indicie", table row style class
-            if i == self.place.task.index:
+            if i == self.task.id:
                 return current_task(i)
             if i in self.solved_tasks:
                 return solved_task(i)
@@ -174,6 +153,4 @@ class Team:
             m = 1
         else:
             m = 4
-        self.money -= m
-        self.set_money(self.money)
         return ""

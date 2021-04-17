@@ -32,16 +32,16 @@
 
         <div class="row align-items-center justify-content-center">
             <br>
-           Vaše možnosti k přesunu:
+           Vaše možnosti:
         </div>
         <div class="row align-items-center justify-content-center">
         <br>
         <table class="table-condensed table-bordered">
-            <thead><tr><th>Místo</th><th>Čas přesunu</th><th>Cena přesunu</th></tr></thead>
+            <thead><tr><th>Dějová linie</th><th>Číslo úkolu</th><th>Počet bodů za úkol</th></tr></thead>
             <tbody>
                 {% for opt in moving %}
                     <tr><td>{{ opt[0] }}</td><td class="text-right">{{
-						opt[1][0] }} </td><td class="text-right">{{ opt[1][1] }} Kčs </td></tr>
+						opt[1][0] }} </td><td class="text-right">{{ opt[1][1] }} </td></tr>
                 {% endfor %}
             </tbody>
         </table>
@@ -56,7 +56,7 @@
       <form  action="" method="post" role="form">
         {{ form.csrf }}
         <div class="form-group">
-	  <label for="answer">Kam se chcete přesunout?</label>
+	  <label for="answer">Kterou dějovou linií chcete pokračovat?</label>
       <select id="answer" name="answer">
       {{ form.ch|safe }}
 <!--      {% for option in form.answer.choices %}

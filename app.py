@@ -13,10 +13,13 @@ app.config.from_object(__name__)
 app.config['SECRET_KEY'] = 'SjdnUends821Jsdlkvxh391ksdODnejdDw'
 
 PROJECT_DIR = path.dirname(__file__)
-TASKS = path.join(PROJECT_DIR, 'Data POH - úkoly--pro server.csv')
-PLACES = path.join(PROJECT_DIR, 'Data POH - kostely--pro server.tsv')
-app.game = Game(task_file=TASKS, place_file=PLACES)
+print(PROJECT_DIR)
+TASKS = path.join(PROJECT_DIR, 'data/tasks.csv')
+PATHS = path.join(PROJECT_DIR, 'data/task_path.json')
+app.game = Game(TASKS, PATHS)
 
+def create_team(teamsec):
+    return Team(teamsec, name=secpasswords_teams[teamsec], tasks=app.game.tasks)
 
 class TeamLogin(Form):
     team = TextField('Team:', validators=[validators.required()])
@@ -59,24 +62,20 @@ class SubmitTask(Form):
     answer = TextField('Answer:', validators=[validators.required()])
 
 
-# class Move(Form):
-#    place = SelectField('Place:', validators=[validators.required()])
 
 @app.route("/home/<teamsec>", methods=['GET', 'POST'])
 def home(teamsec):
-    team = Team(teamsec, name=secpasswords_teams[teamsec], places=app.game.places)
+    team = create_team(teamsec)
     text = team.statustext()
 
     form = SubmitTask(request.form)
     if team.state == "MOVE":
         templ = "move"
-        moving_options = team.moving_options()
-        ch = [(i, "%s (%d času, %d Kčs)" % (n, d, p)) for i, (n, (d, p)) in enumerate(moving_options)]
-        form.answer = SelectField('Place:', validators=[validators.required()],
-                                  choices=ch
-                                  )
+        progress = app.game.progress_tracker.get_progress(team.get_solved_tasks())
+        moving_options = [(name, (progress[i], 1)) for i, name in enumerate(app.game.progress_tracker.get_path_names())]
+        ch = [(i, f"{n}") for i, (n, d) in enumerate(moving_options)]
+        form.answer = SelectField('Place:', validators=[validators.required()], choices=ch)
         form.ch = "".join('<option value="%d">%s</option>' % o for o in ch)
-
     else:
         templ = "home"
         moving_options = []
@@ -85,16 +84,13 @@ def home(teamsec):
         answer = request.form["answer"]
         if team.state == "MOVE":
             try:
-                new_place = moving_options[int(answer)][0]
+                new_task = app.game.progress_tracker.get_next_task_in_path(int(answer), team.solved_tasks)
             except ValueError:
                 return "Posíláš odpověď na úkol, který už někdo z tvého týmu vyřešil. Refreshuj."
+            team.set_task(app.game.tasks[new_task])
+            flash('Vybrali jste nový úkol!')
+            return redirect('/home/%s' % teamsec)
 
-            res, msg = team.check_move(app.game.places[new_place])
-            if res:
-                templ = "home"
-                flash(msg)
-                return redirect('/home/%s' % teamsec)
-            flash(msg)
         else:  # answering question
             res, msg = team.check_answer(answer)
             if res:  # correct answer changes state
@@ -109,11 +105,11 @@ def home(teamsec):
 
 @app.route("/results/<teamsec>", methods=['GET'])
 def results(teamsec):
-    team = Team(teamsec, name=secpasswords_teams[teamsec], places=app.game.places)
+    team = create_team(teamsec)
 
     table = []
     for ts in teams_secret_passwords.values():
-        x = Team(ts, name=secpasswords_teams[ts], places=app.game.places).get_results()
+        x = create_team(ts).get_results()
         table.append(x)
     for i, t in enumerate(sorted(table, key=lambda x: -x[-1])):
         t = [i + 1] + t
@@ -123,7 +119,7 @@ def results(teamsec):
 
 @app.route("/tasks/<teamsec>", methods=['GET'])
 def tasks(teamsec, msg=""):
-    team = Team(teamsec, name=secpasswords_teams[teamsec], places=app.game.places)
+    team = create_team(teamsec)
     ttable = team.task_table(tasks=app.game.tasks)
 
     def render_answ(x):
@@ -147,7 +143,7 @@ def tasks(teamsec, msg=""):
 
 @app.route("/tasks/<teamsec>/unlock/<task>/<hint>", methods=['GET'])
 def unlock_hint(teamsec, task, hint):
-    team = Team(teamsec, name=secpasswords_teams[teamsec], places=app.game.places)
+    team = create_team(teamsec)
     msg = team.unlock_hint(task, hint)
     return tasks(teamsec)
 

@@ -1,10 +1,12 @@
 import unidecode
+
+
 # https://stackoverflow.com/questions/517923/what-is-the-best-way-to-remove-accents-in-a-python-unicode-string
 
 
 class Task:
     def __init__(self, index, d):
-        self.index = index
+        self.id = index
         self.solution = d['solution']
         self.hints = d['hints']
         self.link = d['link']
@@ -13,7 +15,7 @@ class Task:
         self.norm_solution = self.normalize_answer(self.solution)
 
     def __str__(self):
-        return f'''Task(index={self.index}, solution={self.solution}, hints={self.hints}, link={self.link})'''
+        return f'''Task(index={self.id}, solution={self.solution}, hints={self.hints}, link={self.link})'''
 
     def __repr__(self):
         return str(self)
@@ -26,3 +28,11 @@ class Task:
 
     def is_correct(self, answer):
         return self.norm_solution == self.normalize_answer(answer)
+
+    def check_answer(self, answer):
+        res = self.is_correct(answer)
+        if res:
+            msg = "Gratulujeme, to je vskutku správná odpověď. Vyberte si další úkol."
+        else:
+            msg = "Je nám líto, to je špatná odpověď. Zkuste to znovu."
+        return res, msg

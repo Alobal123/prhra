@@ -1,27 +1,22 @@
-import re
+import json
 from typing import List
 
 import pandas as pd
 
-from game.place import Place
 from game.task import Task
+from game.task_progress import TaskProgressTracker, TaskPath
 
 
 class Game:
 
-    def __init__(self, task_file: str, place_file):
+    def __init__(self, task_file: str, path_file: str):
         print('Loading game')
-        self.tasks = {t.index: t for t in self.load_tasks(task_file)}
-        places_neighbours, place_tasks = self.load_places(place_file)
-        list_places = [Place(n, self.tasks[t]) for n, t in place_tasks]
-        self.places = {p.name: p for p in list_places}
+        self.tasks = sorted(Game.load_tasks(task_file), key= lambda x: x.id)
+        self.progress_tracker = Game.load_task_paths(path_file, self.tasks)
 
-        for pn in places_neighbours.keys():
-            p = self.places[pn]
-            p.insert_neighbours(places_neighbours[pn])
-
-    def load_tasks(self, fname: str) -> List[Task]:
-        tasks_data = pd.read_csv(fname, skiprows=1)
+    @staticmethod
+    def load_tasks(task_definition_file: str) -> List[Task]:
+        tasks_data = pd.read_csv(task_definition_file)
         tasks_data = tasks_data.dropna(subset=['stručný popis úkolu'])
 
         def create_task(row: pd.Series) -> Task:
@@ -32,28 +27,16 @@ class Game:
 
         return tasks_data.apply(create_task, axis=1).tolist()
 
-    def load_places(self, fname: str):
-        places = {}
-        tasks = []
-        first = True
-        with open(fname, "r", encoding='utf-8') as f:
-            curr = None
-            for line in f:
-                if first:
-                    first = False
-                    continue
-                *a, b, dur, task, price = re.split("\t", line.rstrip())
-                dur = int(dur)
-                task = int(task)
-                price = int(price)
-                x = a[0]
-                if not x:
-                    x = curr
-                curr = x
-
-                if curr not in places:
-                    places[curr] = {}
-                    tasks.append((curr, task))
-
-                places[curr][b] = (dur, price)
-        return places, tasks
+    @staticmethod
+    def load_task_paths(task_path_definiton_file: str, tasks: List[Task]) -> TaskProgressTracker:
+        paths = []
+        with open(task_path_definiton_file, "r", encoding='utf-8') as f:
+            path_dicts = json.load(f)
+            for path in path_dicts:
+                new_path = TaskPath(name=path["name"])
+                paths.append(new_path)
+                for task_id in path['tasks']:
+                    for task in tasks:
+                        if task_id == task.id:
+                            new_path.append(task)
+        return TaskProgressTracker(paths)
