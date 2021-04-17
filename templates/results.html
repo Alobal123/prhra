@@ -29,8 +29,7 @@
         </div>
         <div class="row align-items-center justify-content-center">
             <p>
-            <a href="https://docs.google.com/document/d/15AdUNLz4y0odtSY5GqHg5PH0QZ1FEReAv-_a0nDgEcc/edit?usp=sharing">
-            Body = 4-krát počet splněných úkolů + min(0, Kčs) + min(0, čas/15)
+            Body = Součet bodů za splněné úkoly - počet trestných bodů
             </a>
             </p>
         </div>
@@ -38,7 +37,7 @@
 
         <div class="row align-items-center justify-content-center">
             <table class="table-condensed table-bordered">
-                <thead><tr><th>Pořadí</th><th>Tým</th><th>Čas</th><th>Kčs</th><th>Splněné úkoly</th><th>Body</th>
+                <thead><tr><th>Pořadí</th><th>Tým</th><th>Splněné úkoly</th><th>Body</th>
                 </tr></thead>
                 <tbody>
                     {% for row in table %}

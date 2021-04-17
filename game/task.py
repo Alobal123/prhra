@@ -11,6 +11,7 @@ class Task:
         self.hints = d['hints']
         self.link = d['link']
         self.clue = d['clue']
+        self.points = d['points']
 
         self.norm_solution = self.normalize_answer(self.solution)
 

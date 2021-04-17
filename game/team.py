@@ -11,7 +11,7 @@ class Team:
         "task" : -1
     }
 
-    NULL_TASK = Task(-1, {'link': 'nic', 'clue': "", 'hints': [], 'solution': ""})
+    NULL_TASK = Task(-1, {'link': 'nic', 'clue': "", 'hints': [], 'solution': "",'points':0})
 
     def __init__(self, secpassw: str, name: str, tasks: List[Task]):
         self.secpassw = secpassw
@@ -24,7 +24,7 @@ class Team:
         self.filename = "team_%s_%s" % (self.name.replace(" ", "-"), secpassw)
 
         starting_values = self.load() if os.path.isfile(self.filename) else Team.STARTING_VALUES
-        print(starting_values)
+
         self.state = starting_values["state"]  # "MOVE" # or "ANSWER"
         self.task = tasks[int(starting_values["task"])]
 
@@ -72,12 +72,12 @@ class Team:
             text += " Vyberte si nový úkol."
         return text
 
-    def get_points(self):
-        return 4 * len(self.solved_tasks)
+    def get_points(self, tasks):
+        return sum([tasks[i].points for i in self.solved_tasks])
 
-    def get_results(self):
+    def get_results(self, tasks):
         """ row for the results table """
-        return [self.name, ", ".join(map(str, sorted(self.solved_tasks))), self.get_points()]
+        return [self.name, ", ".join(map(str, sorted(self.solved_tasks))), self.get_points(tasks)]
 
     def check_answer(self, answer):
         if self.state != "ANSWER":

@@ -18,8 +18,10 @@ TASKS = path.join(PROJECT_DIR, 'data/tasks.csv')
 PATHS = path.join(PROJECT_DIR, 'data/task_path.json')
 app.game = Game(TASKS, PATHS)
 
+
 def create_team(teamsec):
     return Team(teamsec, name=secpasswords_teams[teamsec], tasks=app.game.tasks)
+
 
 class TeamLogin(Form):
     team = TextField('Team:', validators=[validators.required()])
@@ -60,7 +62,6 @@ def teamlogin():
 
 class SubmitTask(Form):
     answer = TextField('Answer:', validators=[validators.required()])
-
 
 
 @app.route("/home/<teamsec>", methods=['GET', 'POST'])
@@ -105,11 +106,11 @@ def home(teamsec):
 
 @app.route("/results/<teamsec>", methods=['GET'])
 def results(teamsec):
-    team = create_team(teamsec)
+    #create_team(teamsec)
 
     table = []
     for ts in teams_secret_passwords.values():
-        x = create_team(ts).get_results()
+        x = create_team(ts).get_results(app.game.tasks)
         table.append(x)
     for i, t in enumerate(sorted(table, key=lambda x: -x[-1])):
         t = [i + 1] + t

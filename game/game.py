@@ -23,7 +23,7 @@ class Game:
             hints = [row['nápověda 1'], row['nápověda 2']]
             return Task(row['číslo úkolu'],
                         {'solution': row['správné řešení'], 'hints': hints, 'link': row['odkaz pro hráče (read-only)'],
-                         'clue': row['indicie']})
+                         'clue': row['indicie'], 'points':row['body']})
 
         return tasks_data.apply(create_task, axis=1).tolist()
 
